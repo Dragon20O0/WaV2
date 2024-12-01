@@ -1,0 +1,17 @@
+{
+	id: "312d3c59-a3d8-415a-b091-aea01b28d88c"
+	type: "player"
+	player_name: "Dragon20O0"
+	ranks: {
+		312d3c59-a3d8-415a-b091-aea01b28d88c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Dragon20O0"
+		"ftbteams:description": ""
+		"ftbteams:color": "#94FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
