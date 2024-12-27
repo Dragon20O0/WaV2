@@ -1,87 +1,9 @@
 {
-  "minecraft:recipes/building_blocks/quartz_stairs": {
-    "criteria": {
-      "has_quartz_block": "2024-12-14 03:02:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_quartz": {
-    "criteria": {
-      "has_quartz_block": "2024-12-14 03:02:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_slab": {
-    "criteria": {
-      "has_quartz_block": "2024-12-14 03:02:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2024-12-14 03:02:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_bricks": {
-    "criteria": {
-      "has_quartz_block": "2024-12-14 03:02:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2024-12-14 03:02:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2024-12-14 03:00:44 +0000"
+      "unlock_right_away": "2024-12-27 21:00:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2024-12-14 03:36:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2024-12-14 03:02:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2024-12-14 03:02:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2024-12-14 03:02:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:plains": "2024-12-14 03:00:45 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/quartz_pillar": {
-    "criteria": {
-      "has_quartz_block": "2024-12-14 03:02:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2024-12-14 03:02:03 +0000"
-    },
-    "done": true
-  },
-  "DataVersion": 3465
+  "DataVersion": 3953
 }

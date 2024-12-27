@@ -1,128 +1,61 @@
-[14Dec2024 02:59:39.110] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[14Dec2024 02:59:39.115] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[14Dec2024 02:59:39.317] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[14Dec2024 02:59:39.395] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/WaV2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[14Dec2024 02:59:39.693] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/WaV2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[14Dec2024 02:59:39.696] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/WaV2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[14Dec2024 02:59:39.698] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/WaV2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[14Dec2024 02:59:39.701] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/WaV2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[14Dec2024 02:59:39.815] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[14Dec2024 02:59:42.334] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[14Dec2024 02:59:53.190] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[14Dec2024 02:59:53.196] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[14Dec2024 02:59:55.380] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[14Dec2024 02:59:56.039] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
-[14Dec2024 02:59:58.268] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14Dec2024 02:59:58.355] [main/WARN] [net.minecraftforge.common.ForgeHooks/WP]: The following mods have version differences that were not resolved:
-forge (version 47.1.47 -> 47.3.7)
-Things may not work well.
-[14Dec2024 03:00:00.511] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/WaV2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23105!/assets/.mcassetsroot' uses unexpected schema
-[14Dec2024 03:00:00.513] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/WaV2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23105!/data/.mcassetsroot' uses unexpected schema
-[14Dec2024 03:00:03.595] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[14Dec2024 03:00:03.887] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
-[14Dec2024 03:00:05.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[14Dec2024 03:00:05.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[14Dec2024 03:00:05.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[14Dec2024 03:00:05.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[14Dec2024 03:00:05.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[14Dec2024 03:00:05.673] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[14Dec2024 03:00:05.833] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14Dec2024 03:00:05.834] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[14Dec2024 03:00:05.835] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14Dec2024 03:00:05.836] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[14Dec2024 03:00:05.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[14Dec2024 03:00:06.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[14Dec2024 03:00:14.640] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 03:00:14.652] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 03:00:14.715] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 03:00:14.717] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 03:00:14.720] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 03:00:14.723] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 03:00:14.725] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 03:00:14.728] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 03:00:14.732] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 03:00:14.734] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 03:00:14.736] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 03:00:14.738] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 03:00:14.740] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 03:00:14.746] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 03:00:14.749] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 03:00:14.751] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 03:00:14.754] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 03:00:14.780] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 03:00:15.279] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 03:00:22.259] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 03:00:22.265] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 03:00:22.268] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 03:00:22.271] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 03:00:22.273] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 03:00:22.276] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 03:00:22.279] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 03:00:22.282] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 03:00:22.285] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 03:00:22.289] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 03:00:22.291] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 03:00:22.295] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 03:00:22.299] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 03:00:22.303] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 03:00:22.780] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 03:00:23.345] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 03:00:23.596] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 17317 ms
-[14Dec2024 03:00:23.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (17.733s)! For help, type "help"
-[14Dec2024 03:00:23.632] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[14Dec2024 03:00:44.286] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dragon20O0[/127.127.127.61:48345] logged in with entity id 1 at (-5.5, 83.0, 227.5)
-[14Dec2024 03:00:44.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dragon20O0 joined the game
-[14Dec2024 03:01:03.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Set own game mode to Spectator Mode]
-[14Dec2024 03:01:05.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Set own game mode to Survival Mode]
-[14Dec2024 03:01:30.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Set own game mode to Creative Mode]
-[14Dec2024 03:01:46.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Gave 1 [Structure Block] to Dragon20O0]
-[14Dec2024 03:04:56.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 moved too quickly! -10.284000264339397,0.019615335769273656,0.00771393673275611
-[14Dec2024 03:06:05.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 moved too quickly! 9.743772227184849,-3.3750001341059317,0.1917151845967453
-[14Dec2024 03:08:03.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Set own game mode to Spectator Mode]
-[14Dec2024 03:08:18.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Set own game mode to Creative Mode]
-[14Dec2024 03:12:14.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Successfully filled 1949 block(s)]
-[14Dec2024 03:16:50.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Successfully filled 247 block(s)]
-[14Dec2024 03:17:12.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Successfully filled 247 block(s)]
-[14Dec2024 03:23:00.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Successfully filled 5 block(s)]
-[14Dec2024 03:23:40.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Successfully filled 3196 block(s)]
-[14Dec2024 03:24:34.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Successfully filled 5 block(s)]
-[14Dec2024 03:24:46.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Set own game mode to Spectator Mode]
-[14Dec2024 03:24:50.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Set own game mode to Creative Mode]
-[14Dec2024 03:25:13.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Applied effect Night Vision to Dragon20O0]
-[14Dec2024 03:25:35.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Successfully filled 12 block(s)]
-[14Dec2024 03:26:02.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Successfully filled 33 block(s)]
-[14Dec2024 03:26:25.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Successfully filled 71 block(s)]
-[14Dec2024 03:26:37.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Successfully filled 27 block(s)]
-[14Dec2024 03:27:04.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Successfully filled 200 block(s)]
-[14Dec2024 03:27:33.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Successfully filled 200 block(s)]
-[14Dec2024 03:38:11.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Successfully filled 235 block(s)]
-[14Dec2024 03:38:25.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Successfully filled 235 block(s)]
-[14Dec2024 03:40:05.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 moved too quickly! 10.286196481357536,0.0,-1.0357568467101714
-[14Dec2024 03:40:08.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 moved too quickly! 9.962103000290057,0.10081956404461323,-1.0334490098364597
-[14Dec2024 03:40:14.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 moved too quickly! 10.870479605952369,0.0,0.3030379093109161
-[14Dec2024 03:41:46.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Successfully filled 235 block(s)]
-[14Dec2024 03:41:56.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Successfully filled 235 block(s)]
-[14Dec2024 03:44:18.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Successfully filled 191 block(s)]
-[14Dec2024 03:44:39.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Successfully filled 24 block(s)]
-[14Dec2024 03:44:53.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Successfully filled 13 block(s)]
-[14Dec2024 03:45:05.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Successfully filled 13 block(s)]
-[14Dec2024 03:45:11.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Successfully filled 13 block(s)]
-[14Dec2024 03:46:22.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Successfully filled 58 block(s)]
-[14Dec2024 03:46:41.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Successfully filled 65 block(s)]
-[14Dec2024 03:46:59.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Successfully filled 305 block(s)]
-[14Dec2024 03:47:07.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Successfully filled 305 block(s)]
-[14Dec2024 03:51:48.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Successfully filled 341 block(s)]
-[14Dec2024 03:51:55.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dragon20O0: Successfully filled 342 block(s)]
-[14Dec2024 03:54:19.635] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 lost connection: Disconnected
-[14Dec2024 03:54:19.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dragon20O0 left the game
-[14Dec2024 03:54:50.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[14Dec2024 03:54:50.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[14Dec2024 03:54:50.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[14Dec2024 03:54:50.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[14Dec2024 03:54:51.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Lucky Block Race 2]'/minecraft:overworld
-[14Dec2024 03:54:51.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Lucky Block Race 2]'/minecraft:the_end
-[14Dec2024 03:54:51.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Lucky Block Race 2]'/minecraft:the_nether
-[14Dec2024 03:54:51.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14Dec2024 03:54:51.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14Dec2024 03:54:51.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14Dec2024 03:54:51.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:56:00] [ServerMain/WARN]: resource-pack-id missing, using default of b15ff7df-2775-3240-a9c1-877f9f538310
+[20:56:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:56:00] [ServerMain/INFO]: Found new data pack file/Bingo datapack 1.21–1.21.1.zip, loading it automatically
+[20:56:03] [Worker-Main-1/WARN]: Invalid path in datapack: koncept.bingo:advancement/bingo/item/#advancement.py, ignoring
+[20:56:05] [ServerMain/INFO]: Loaded 1290 recipes
+[20:56:05] [ServerMain/ERROR]: Parsing error loading custom advancement koncept.bingo:bingo/item/scute: Failed to get element minecraft:scute missed input: {"1":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"count":{"min":1,"max":64},"items":["minecraft:scute"]}]}}}
+[20:56:05] [ServerMain/ERROR]: Parsing error loading custom advancement koncept.bingo:bingo/item/empty_slot_smithing_template_armor_trim: Failed to get element minecraft:empty_slot_smithing_template_armor_trim missed input: {"1":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"count":{"min":1,"max":64},"items":["minecraft:empty_slot_smithing_template_armor_trim"]}]}}}
+[20:56:05] [ServerMain/INFO]: Loaded 2279 advancements
+[20:56:06] [Server thread/INFO]: Starting minecraft server version 1.21
+[20:56:06] [Server thread/INFO]: Loading properties
+[20:56:06] [Server thread/INFO]: Default game type: SURVIVAL
+[20:56:06] [Server thread/INFO]: Generating keypair
+[20:56:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:56:06] [Server thread/INFO]: Using epoll channel type
+[20:56:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:56:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:56:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:56:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:56:06] [Server thread/INFO]: Preparing level "world"
+[20:56:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:56:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:56:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:56:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:56:14] [Server thread/INFO]: Time elapsed: 1107 ms
+[20:56:14] [Server thread/INFO]: Done (7.464s)! For help, type "help"
+[20:57:34] [Server thread/INFO]: Dragon20O0[/127.110.23.248:37033] logged in with entity id 6 at (13.5, 74.0, 210.5)
+[20:57:34] [Server thread/INFO]: Dragon20O0 joined the game
+[20:57:58] [Server thread/INFO]: Made Dragon20O0 a server operator
+[20:58:01] [Server thread/INFO]: [Dragon20O0: Set own game mode to Creative Mode]
+[20:58:26] [Server thread/INFO]: [Dragon20O0: Triggered [.bingo.settings]]
+[20:58:32] [Server thread/INFO]: [Dragon20O0: Triggered [bingo.timer.game.yes]]
+[20:58:34] [Server thread/INFO]: [Dragon20O0: Triggered [bingo.timer.game.yes]]
+[20:58:48] [Server thread/INFO]: [Dragon20O0: Triggered [.bingo.rules]]
+[20:58:50] [Server thread/INFO]: [Dragon20O0: Triggered [.bingo.rules]]
+[20:59:03] [Server thread/INFO]: [Dragon20O0: Triggered [.bingo.start]]
+[20:59:08] [Server thread/INFO]: [Dragon20O0: Triggered [bingo.tp_no]]
+[20:59:12] [Server thread/INFO]: [Dragon20O0: Triggered [bingo.team.join.green]]
+[20:59:17] [Server thread/INFO]: [Dragon20O0: Triggered [bingo.team.join.gold]]
+[20:59:19] [Server thread/INFO]: [Dragon20O0: Triggered [bingo.team.join.gold]]
+[20:59:22] [Server thread/INFO]: [Dragon20O0: Triggered [bingo.team.join.green]]
+[20:59:26] [Server thread/INFO]: [Dragon20O0: Triggered [bingo.vote.line]]
+[20:59:40] [Server thread/INFO]: [Dragon20O0: Triggered [bingo.vote.standart]]
+[21:00:23] [Server thread/INFO]: [Dragon20O0: Set own game mode to Adventure Mode]
+[21:00:24] [Server thread/INFO]: [Dragon20O0: Set own game mode to Creative Mode]
+[21:00:39] [Server thread/INFO]: [Dragon20O0: Triggered [.bingo.leave.game]]
+[21:00:42] [Server thread/INFO]: [Dragon20O0: Triggered [bingo.leave.game.yes]]
+[21:00:52] [Server thread/INFO]: [Dragon20O0: Triggered [.bingo.settings]]
+[21:00:58] [Server thread/INFO]: [Dragon20O0: Triggered [bingo.timer.game.yes]]
+[21:01:41] [Server thread/INFO]: Dragon20O0 lost connection: Disconnected
+[21:01:41] [Server thread/INFO]: Dragon20O0 left the game
+[21:01:48] [Server thread/INFO]: Stopping the server
+[21:01:48] [Server thread/INFO]: Stopping server
+[21:01:48] [Server thread/INFO]: Saving players
+[21:01:48] [Server thread/INFO]: Saving worlds
+[21:01:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:01:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:01:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:01:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:01:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:01:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:01:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
