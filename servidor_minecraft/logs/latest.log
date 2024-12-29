@@ -914,3 +914,7 @@ ip<--[HERE]
 [08:18:55] [Server thread/INFO]: Gabo_bb joined the game
 [08:18:55] [Server thread/INFO]: Gabo_bb[/127.4.120.226:45613] logged in with entity id 5616 at ([world]253.30000001192093, 84.0, -815.6999999880791)
 [08:19:00] [Server thread/INFO]: shadow issued server command: /trigger bingo.vote.standart
+[08:26:02] [Server thread/INFO]: Dragon20O0 issued server command: /difficulty easy
+[08:26:02] [Server thread/INFO]: [Dragon20O0: The difficulty has been set to Easy]
+[08:28:53] [Server thread/INFO]: Dragon20O0 issued server command: /gamerule keepInventory true
+[08:28:53] [Server thread/INFO]: [Dragon20O0: Gamerule keepInventory is now set to: true]
