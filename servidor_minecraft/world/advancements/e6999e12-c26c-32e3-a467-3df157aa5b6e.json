@@ -1,49 +1,7 @@
 {
-  "koncept.bingo:bingo/item/oak_log": {
-    "criteria": {
-      "1": "2024-12-29 07:58:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2024-12-29 07:55:44 +0000"
-    },
-    "done": true
-  },
-  "koncept.bingo:bingo/item/peony": {
-    "criteria": {
-      "1": "2024-12-29 07:55:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2024-12-29 07:58:28 +0000"
-    },
-    "done": true
-  },
-  "koncept.bingo:bingo/item/oak_sapling": {
-    "criteria": {
-      "1": "2024-12-29 07:58:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2024-12-29 07:58:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_peony": {
-    "criteria": {
-      "has_peony": "2024-12-29 07:55:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2024-12-29 07:58:28 +0000"
+      "unlock_right_away": "2024-12-29 08:08:39 +0000"
     },
     "done": true
   },
