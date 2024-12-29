@@ -1,7 +1,13 @@
 {
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2024-12-29 08:08:39 +0000"
+      "unlock_right_away": "2024-12-29 08:18:54 +0000"
+    },
+    "done": true
+  },
+  "koncept.bingo:bingo/item/wheat_seeds": {
+    "criteria": {
+      "1": "2024-12-29 08:20:00 +0000"
     },
     "done": true
   },
