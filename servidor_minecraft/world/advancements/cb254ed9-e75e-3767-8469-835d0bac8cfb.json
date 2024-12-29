@@ -1,0 +1,123 @@
+{
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-12-29 07:59:05 +0000"
+    },
+    "done": true
+  },
+  "koncept.bingo:bingo/item/oak_log": {
+    "criteria": {
+      "1": "2024-12-29 07:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-12-29 07:59:05 +0000"
+    },
+    "done": true
+  },
+  "koncept.bingo:bingo/item/cooked_porkchop": {
+    "criteria": {
+      "1": "2024-12-29 07:52:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-29 07:51:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-29 07:53:23 +0000"
+    },
+    "done": true
+  },
+  "koncept.bingo:bingo/item/peony": {
+    "criteria": {
+      "1": "2024-12-29 07:56:02 +0000"
+    },
+    "done": true
+  },
+  "koncept.bingo:bingo/item/stick": {
+    "criteria": {
+      "1": "2024-12-29 07:59:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-12-29 07:59:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-12-29 07:59:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-29 07:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-12-29 07:59:05 +0000"
+    },
+    "done": true
+  },
+  "koncept.bingo:bingo/item/bone": {
+    "criteria": {
+      "1": "2024-12-29 07:53:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-12-29 07:59:05 +0000"
+    },
+    "done": true
+  },
+  "koncept.bingo:bingo/item/oak_sapling": {
+    "criteria": {
+      "1": "2024-12-29 07:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-12-29 07:59:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-29 07:53:27 +0000"
+    },
+    "done": true
+  },
+  "koncept.bingo:bingo/item/wheat_seeds": {
+    "criteria": {
+      "1": "2024-12-29 07:53:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2024-12-29 07:56:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-29 07:53:27 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3953
+}

@@ -1,61 +1,159 @@
-[20:56:00] [ServerMain/WARN]: resource-pack-id missing, using default of b15ff7df-2775-3240-a9c1-877f9f538310
-[20:56:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:56:00] [ServerMain/INFO]: Found new data pack file/Bingo datapack 1.21–1.21.1.zip, loading it automatically
-[20:56:03] [Worker-Main-1/WARN]: Invalid path in datapack: koncept.bingo:advancement/bingo/item/#advancement.py, ignoring
-[20:56:05] [ServerMain/INFO]: Loaded 1290 recipes
-[20:56:05] [ServerMain/ERROR]: Parsing error loading custom advancement koncept.bingo:bingo/item/scute: Failed to get element minecraft:scute missed input: {"1":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"count":{"min":1,"max":64},"items":["minecraft:scute"]}]}}}
-[20:56:05] [ServerMain/ERROR]: Parsing error loading custom advancement koncept.bingo:bingo/item/empty_slot_smithing_template_armor_trim: Failed to get element minecraft:empty_slot_smithing_template_armor_trim missed input: {"1":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"count":{"min":1,"max":64},"items":["minecraft:empty_slot_smithing_template_armor_trim"]}]}}}
-[20:56:05] [ServerMain/INFO]: Loaded 2279 advancements
-[20:56:06] [Server thread/INFO]: Starting minecraft server version 1.21
-[20:56:06] [Server thread/INFO]: Loading properties
-[20:56:06] [Server thread/INFO]: Default game type: SURVIVAL
-[20:56:06] [Server thread/INFO]: Generating keypair
-[20:56:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:56:06] [Server thread/INFO]: Using epoll channel type
-[20:56:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:56:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:56:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:56:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:56:06] [Server thread/INFO]: Preparing level "world"
-[20:56:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:56:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:56:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:56:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:56:14] [Server thread/INFO]: Time elapsed: 1107 ms
-[20:56:14] [Server thread/INFO]: Done (7.464s)! For help, type "help"
-[20:57:34] [Server thread/INFO]: Dragon20O0[/127.110.23.248:37033] logged in with entity id 6 at (13.5, 74.0, 210.5)
-[20:57:34] [Server thread/INFO]: Dragon20O0 joined the game
-[20:57:58] [Server thread/INFO]: Made Dragon20O0 a server operator
-[20:58:01] [Server thread/INFO]: [Dragon20O0: Set own game mode to Creative Mode]
-[20:58:26] [Server thread/INFO]: [Dragon20O0: Triggered [.bingo.settings]]
-[20:58:32] [Server thread/INFO]: [Dragon20O0: Triggered [bingo.timer.game.yes]]
-[20:58:34] [Server thread/INFO]: [Dragon20O0: Triggered [bingo.timer.game.yes]]
-[20:58:48] [Server thread/INFO]: [Dragon20O0: Triggered [.bingo.rules]]
-[20:58:50] [Server thread/INFO]: [Dragon20O0: Triggered [.bingo.rules]]
-[20:59:03] [Server thread/INFO]: [Dragon20O0: Triggered [.bingo.start]]
-[20:59:08] [Server thread/INFO]: [Dragon20O0: Triggered [bingo.tp_no]]
-[20:59:12] [Server thread/INFO]: [Dragon20O0: Triggered [bingo.team.join.green]]
-[20:59:17] [Server thread/INFO]: [Dragon20O0: Triggered [bingo.team.join.gold]]
-[20:59:19] [Server thread/INFO]: [Dragon20O0: Triggered [bingo.team.join.gold]]
-[20:59:22] [Server thread/INFO]: [Dragon20O0: Triggered [bingo.team.join.green]]
-[20:59:26] [Server thread/INFO]: [Dragon20O0: Triggered [bingo.vote.line]]
-[20:59:40] [Server thread/INFO]: [Dragon20O0: Triggered [bingo.vote.standart]]
-[21:00:23] [Server thread/INFO]: [Dragon20O0: Set own game mode to Adventure Mode]
-[21:00:24] [Server thread/INFO]: [Dragon20O0: Set own game mode to Creative Mode]
-[21:00:39] [Server thread/INFO]: [Dragon20O0: Triggered [.bingo.leave.game]]
-[21:00:42] [Server thread/INFO]: [Dragon20O0: Triggered [bingo.leave.game.yes]]
-[21:00:52] [Server thread/INFO]: [Dragon20O0: Triggered [.bingo.settings]]
-[21:00:58] [Server thread/INFO]: [Dragon20O0: Triggered [bingo.timer.game.yes]]
-[21:01:41] [Server thread/INFO]: Dragon20O0 lost connection: Disconnected
-[21:01:41] [Server thread/INFO]: Dragon20O0 left the game
-[21:01:48] [Server thread/INFO]: Stopping the server
-[21:01:48] [Server thread/INFO]: Stopping server
-[21:01:48] [Server thread/INFO]: Saving players
-[21:01:48] [Server thread/INFO]: Saving worlds
-[21:01:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:01:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[21:01:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[21:01:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:01:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:01:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:01:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07:43:50] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[07:43:50] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[07:43:50] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[07:43:52] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[07:43:52] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+ - SkinsRestorer (15.5.1)
+[07:44:02] [ServerMain/WARN]: resource-pack-id missing, using default of b15ff7df-2775-3240-a9c1-877f9f538310
+[07:44:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[07:44:07] [Worker-Main-1/WARN]: Invalid path in datapack: koncept.bingo:advancement/bingo/item/#advancement.py, ignoring
+[07:44:09] [ServerMain/INFO]: Loaded 1290 recipes
+[07:44:10] [ServerMain/ERROR]: Parsing error loading custom advancement koncept.bingo:bingo/item/scute: Failed to get element minecraft:scute missed input: {"1":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"count":{"min":1,"max":64},"items":["minecraft:scute"]}]}}}
+[07:44:10] [ServerMain/ERROR]: Parsing error loading custom advancement koncept.bingo:bingo/item/empty_slot_smithing_template_armor_trim: Failed to get element minecraft:empty_slot_smithing_template_armor_trim missed input: {"1":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"count":{"min":1,"max":64},"items":["minecraft:empty_slot_smithing_template_armor_trim"]}]}}}
+[07:44:12] [ServerMain/INFO]: Loaded 2279 advancements
+[07:44:13] [Server thread/INFO]: Starting minecraft server version 1.21
+[07:44:13] [Server thread/INFO]: Loading properties
+[07:44:14] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[07:44:15] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[07:44:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[07:44:16] [Server thread/INFO]: Using 4 threads for Netty based IO
+[07:44:18] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[07:44:18] [Server thread/INFO]: Default game type: SURVIVAL
+[07:44:18] [Server thread/INFO]: Generating keypair
+[07:44:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:44:19] [Server thread/INFO]: Using epoll channel type
+[07:44:19] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[07:44:19] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[07:44:19] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
+[07:44:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[07:44:19] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[07:44:24] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[07:44:26] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[07:44:28] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[07:44:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07:44:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[07:44:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07:44:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[07:44:28] [Server thread/INFO]: Preparing level "world"
+[07:44:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[07:44:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[07:44:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[07:44:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[07:44:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[07:44:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[07:44:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[07:44:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
+[07:44:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
+[07:44:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[07:44:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[07:44:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[07:44:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[07:44:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[07:44:34] [Server thread/INFO]: Time elapsed: 4023 ms
+[07:44:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[07:44:35] [Server thread/INFO]: Time elapsed: 1102 ms
+[07:44:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[07:44:35] [Server thread/INFO]: Time elapsed: 491 ms
+[07:44:35] [Server thread/INFO]: [spark] Starting background profiler...
+[07:44:37] [Server thread/INFO]: Done preparing level "world" (9.113s)
+[07:44:37] [Server thread/INFO]: Running delayed init tasks
+[07:44:37] [Server thread/INFO]: Done (50.329s)! For help, type "help"
+[07:44:37] [Server thread/INFO]: Timings Reset
+[07:44:46] [Server thread/INFO]: Unknown or incomplete command, see below for error
+a<--[HERE]
+[07:45:36] [Server thread/INFO]: Unknown or incomplete command, see below for error
+ip<--[HERE]
+[07:46:43] [User Authenticator #0/INFO]: UUID of player Dragon20O0 is ee7539de-cf01-342a-86a3-178d274f21e1
+[07:46:45] [User Authenticator #0/INFO]: UUID of player Chocoton is cb254ed9-e75e-3767-8469-835d0bac8cfb
+[07:47:05] [Server thread/INFO]: Dragon20O0 joined the game
+[07:47:05] [Server thread/INFO]: Dragon20O0[/127.110.23.248:59553] logged in with entity id 64 at ([world]17.525379781882148, 72.0, 244.03795515196563)
+[07:47:10] [Async Chat Thread - #0/INFO]: [Not Secure] <Dragon20O0> xd
+[07:48:43] [Server thread/INFO]: Dragon20O0 issued server command: /tps
+[07:49:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@54622551[id=cb254ed9-e75e-3767-8469-835d0bac8cfb,name=Chocoton,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTczNTQ1ODQwNDk0NSwKICAicHJvZmlsZUlkIiA6ICI0YmM2ODZiNTIwMmY0ZTU4OTljMTEyOGI5NGY1YzlmMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDaG9jb3RvbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mYzYzMjliNTgzZGIwNTkxODhiZDFkNDNjYmU1N2YxNjFjZTEzNDI2MzZiYjlmOTg1ZjJjZmFmMzIzMDFmNDg4IgogICAgfQogIH0KfQ==, signature=di7YWHk0XAKhctSphlUz7C5JiBmPmb8oSVnrnAfC1ntn1js6JhOBZA+D7VdfvuMA4YO9FkagX5XDdH3rLNsbv+ksAzT9vdMSrM8pnKuVAhM2TIxbQtrJo9F4a/CIRBcLSGT0niuclTdaHYguDyjtGPCXJ0UJdLaP8Gv7s/WrjwWymM2UNoe7bG/jE0I8/JeRPBZP676SRkQnQBlMAHZnk4v6bzvQpDbUSU3NZiZ+NsBt5/IjxVDQG6KvAheTtJuFvnpEIdvtaUsxwegyEBT3gpN8o3YMcvgf4OrtDzUYP+YvnzO3qyeSR+bWIAxpCZzq/eiDKVzlmRHA20ZH7wX+JliJjoLYBGRxLcTiXJIfXJIbTVoOu5AjcmUkoqpapxcF1X0ffXjQENohZK/ZpGgnMGqRNsBcCJKeN4targtS9gVJXUu+wO/oCzLO42meHSlJuR/ixlUjlA0ZptaX8q9hOAdfpubwdOsUChIs5JO6BSE5FJQVqFy0DCCnLK4gSdasfnx9PaX44Z8yuPiPJvAJ4eQh5v72c6NlUa9afv0ni6ZHuCRv0Oyv0qp7iU26HBYuuTDaQFJDrNljmjWgLLTMMuhOFHqbbszE6sciD156zTAIXHsFyHeAQF8wo1Ei8rk5iPJ7Ts9jqazoAlHQfWGe6u58MtPeNjgS0ukjp8JpAdY=]]}] lost connection: Timed out
+[07:49:09] [Server thread/INFO]: Dragon20O0 issued server command: /trigger .bingo.settings
+[07:49:09] [Server thread/INFO]: [Dragon20O0: Triggered [.bingo.settings]]
+[07:49:16] [Server thread/INFO]: Dragon20O0 issued server command: /trigger bingo.timer.game.yes
+[07:49:16] [Server thread/INFO]: [Dragon20O0: Triggered [bingo.timer.game.yes]]
+[07:49:23] [Server thread/INFO]: Dragon20O0 issued server command: /trigger .bingo.settings add 1
+[07:49:23] [Server thread/INFO]: [Dragon20O0: Triggered [.bingo.settings] (added 1 to value)]
+[07:51:20] [User Authenticator #1/INFO]: UUID of player Chocoton is cb254ed9-e75e-3767-8469-835d0bac8cfb
+[07:51:39] [Server thread/INFO]: Chocoton joined the game
+[07:51:39] [Server thread/INFO]: Chocoton[/127.46.211.90:56875] logged in with entity id 1122 at ([world]22.5, 73.0, 211.5)
+[07:51:43] [Async Chat Thread - #2/INFO]: [Not Secure] <Dragon20O0> :O
+[07:51:59] [Server thread/INFO]: Dragon20O0 issued server command: /tp Chocoton
+[07:51:59] [Server thread/INFO]: [Dragon20O0: Teleported Dragon20O0 to Chocoton]
+[07:52:13] [Async Chat Thread - #3/INFO]: [Not Secure] <Chocoton> ayudame
+[07:52:23] [Server thread/INFO]: Dragon20O0 issued server command: /effect give Chocoton minecraft:resistance infinite 4
+[07:52:23] [Server thread/INFO]: [Dragon20O0: Applied effect Resistance to Chocoton]
+[07:53:11] [Async Chat Thread - #3/INFO]: [Not Secure] <Chocoton> no es mas facil hacer de dia?
+[07:53:44] [User Authenticator #2/INFO]: UUID of player shadow is 55576363-a43c-36f6-b83b-ceac7eff7544
+[07:54:13] [Server thread/INFO]: Dragon20O0 issued server command: /difficulty peaceful
+[07:54:13] [Server thread/INFO]: [Dragon20O0: The difficulty has been set to Peaceful]
+[07:54:28] [Server thread/INFO]: shadow joined the game
+[07:54:28] [Server thread/INFO]: shadow[/127.71.34.28:42145] logged in with entity id 1488 at ([world]10.5, 68.0, 209.5)
+[07:54:47] [Server thread/INFO]: shadow lost connection: Disconnected
+[07:54:47] [Server thread/INFO]: shadow left the game
+[07:55:22] [User Authenticator #3/INFO]: UUID of player Gabo_bb is e6999e12-c26c-32e3-a467-3df157aa5b6e
+[07:55:44] [Server thread/INFO]: Gabo_bb joined the game
+[07:55:44] [Server thread/INFO]: Gabo_bb[/127.4.120.226:47393] logged in with entity id 1575 at ([world]21.5, 75.0, 211.5)
+[07:57:03] [Async Chat Thread - #4/INFO]: [Not Secure] <Gabo_bb> hello
+[07:57:06] [Async Chat Thread - #4/INFO]: [Not Secure] <Dragon20O0> hi
+[07:57:14] [Async Chat Thread - #4/INFO]: [Not Secure] <Dragon20O0> :o
+[07:57:15] [Async Chat Thread - #4/INFO]: [Not Secure] <Gabo_bb> mi name is gabo
+[07:57:21] [Async Chat Thread - #4/INFO]: [Not Secure] <Gabo_bb> i from peru
+[07:57:26] [Async Chat Thread - #4/INFO]: [Not Secure] <Dragon20O0> gabo gave flowers to chocoton
+[07:57:33] [Async Chat Thread - #4/INFO]: [Not Secure] <Dragon20O0> they are in lovo
+[07:57:38] [Async Chat Thread - #4/INFO]: [Not Secure] <Dragon20O0> love*
+[07:57:42] [Async Chat Thread - #4/INFO]: [Not Secure] <Gabo_bb> you so beutiful
+[07:57:51] [Async Chat Thread - #4/INFO]: [Not Secure] <Dragon20O0> choco is shy
+[07:57:52] [Async Chat Thread - #4/INFO]: [Not Secure] <Gabo_bb> we louve chocoton
+[07:58:27] [User Authenticator #4/INFO]: UUID of player shadow is 55576363-a43c-36f6-b83b-ceac7eff7544
+[07:58:36] [Server thread/INFO]: Dragon20O0 issued server command: /gamemode adventure @a
+[07:58:36] [Server thread/INFO]: [Dragon20O0: Set own game mode to Adventure Mode]
+[07:58:36] [Server thread/INFO]: [Dragon20O0: Set Chocoton's game mode to Adventure Mode]
+[07:58:36] [Server thread/INFO]: [Dragon20O0: Set Gabo_bb's game mode to Adventure Mode]
+[07:58:40] [Server thread/INFO]: Dragon20O0 issued server command: /gamemode creative
+[07:58:40] [Server thread/INFO]: [Dragon20O0: Set own game mode to Creative Mode]
+[07:58:53] [Server thread/INFO]: Dragon20O0 issued server command: /tp Chocoton Gabo_bb
+[07:58:53] [Server thread/INFO]: [Dragon20O0: Teleported Chocoton to Gabo_bb]
+[07:58:59] [Server thread/INFO]: Dragon20O0 issued server command: /tp Chocoton Gabo_bb
+[07:58:59] [Server thread/INFO]: [Dragon20O0: Teleported Chocoton to Gabo_bb]
+[07:59:04] [Server thread/INFO]: shadow joined the game
+[07:59:04] [Server thread/INFO]: shadow[/127.71.34.28:39463] logged in with entity id 1711 at ([world]18.62428159748529, 67.0, 189.93368992915174)
+[07:59:26] [Server thread/INFO]: Dragon20O0 issued server command: /tp @a Dragon20O0
+[07:59:26] [Server thread/INFO]: [Dragon20O0: Teleported 4 entities to Dragon20O0]
+[07:59:30] [Server thread/INFO]: Dragon20O0 issued server command: /gamemode adventure @a
+[07:59:30] [Server thread/INFO]: [Dragon20O0: Set own game mode to Adventure Mode]
+[07:59:30] [Server thread/INFO]: [Dragon20O0: Set shadow's game mode to Adventure Mode]
+[07:59:36] [Server thread/INFO]: Dragon20O0 issued server command: /tp @a Dragon20O0
+[07:59:36] [Server thread/INFO]: [Dragon20O0: Teleported 4 entities to Dragon20O0]
+[07:59:41] [Server thread/INFO]: Dragon20O0 issued server command: /gamemode creative
+[07:59:41] [Server thread/INFO]: [Dragon20O0: Set own game mode to Creative Mode]
+[08:00:28] [Server thread/INFO]: Dragon20O0 issued server command: /fill 44 67 222 44 66 222 minecraft:bedrock
+[08:00:28] [Server thread/INFO]: [Dragon20O0: Successfully filled 2 block(s)]
+[08:00:43] [Server thread/INFO]: Dragon20O0 issued server command: /fill 43 67 221 43 66 221 minecraft:bedrock
+[08:00:43] [Server thread/INFO]: [Dragon20O0: Successfully filled 2 block(s)]
+[08:00:58] [Server thread/INFO]: Dragon20O0 issued server command: /fill 42 67 222 42 66 222 minecraft:bedrock
+[08:00:58] [Server thread/INFO]: [Dragon20O0: Successfully filled 2 block(s)]
+[08:01:13] [Server thread/INFO]: Dragon20O0 issued server command: /fill 43 67 223 43 66 223 minecraft:beacon
+[08:01:13] [Server thread/INFO]: [Dragon20O0: Successfully filled 2 block(s)]
+[08:01:19] [Server thread/INFO]: Dragon20O0 issued server command: /fill 43 67 223 43 66 223 minecraft:bedrock
+[08:01:19] [Server thread/INFO]: [Dragon20O0: Successfully filled 2 block(s)]
+[08:01:37] [Server thread/INFO]: Dragon20O0 issued server command: /fill 43 66 222 43 66 222 minecraft:bedrock
+[08:01:37] [Server thread/INFO]: [Dragon20O0: Successfully filled 1 block(s)]
+[08:02:11] [Server thread/INFO]: Dragon20O0 issued server command: /tp Chocoton
+[08:02:11] [Server thread/INFO]: [Dragon20O0: Teleported Dragon20O0 to Chocoton]
+[08:02:14] [Server thread/INFO]: Dragon20O0 issued server command: /gamemode survival
+[08:02:14] [Server thread/INFO]: [Dragon20O0: Set own game mode to Survival Mode]
+[08:02:49] [Server thread/INFO]: Dragon20O0 issued server command: /effect give @a minecraft:resistance infinite 5
+[08:02:49] [Server thread/INFO]: [Dragon20O0: Applied effect Resistance to 4 targets]
+[08:02:59] [Server thread/INFO]: Dragon20O0 issued server command: /gamemode creative
+[08:02:59] [Server thread/INFO]: [Dragon20O0: Set own game mode to Creative Mode]
+[08:03:02] [Server thread/INFO]: Dragon20O0 issued server command: /gamemode survival
+[08:03:02] [Server thread/INFO]: [Dragon20O0: Set own game mode to Survival Mode]
+[08:03:15] [Server thread/INFO]: Dragon20O0 issued server command: /gamemode creative
+[08:03:15] [Server thread/INFO]: [Dragon20O0: Set own game mode to Creative Mode]
+[08:03:20] [Server thread/INFO]: Dragon20O0 issued server command: /gamemode spectator
+[08:03:20] [Server thread/INFO]: [Dragon20O0: Set own game mode to Spectator Mode]
+[08:03:24] [Server thread/INFO]: Dragon20O0 issued server command: /gamemode creative
+[08:03:24] [Server thread/INFO]: [Dragon20O0: Set own game mode to Creative Mode]
