@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "cb254ed9e75e37678469835d0bac8cfb"
+	name: "Chocoton"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

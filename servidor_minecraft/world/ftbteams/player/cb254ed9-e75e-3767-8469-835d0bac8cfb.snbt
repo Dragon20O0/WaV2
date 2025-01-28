@@ -1,0 +1,17 @@
+{
+	id: "cb254ed9-e75e-3767-8469-835d0bac8cfb"
+	type: "player"
+	player_name: "Chocoton"
+	ranks: {
+		cb254ed9-e75e-3767-8469-835d0bac8cfb: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Chocoton"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59AFFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
