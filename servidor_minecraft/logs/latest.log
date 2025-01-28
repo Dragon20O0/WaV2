@@ -2447,3 +2447,27 @@ Direct Download: https://get.discordsrv.com
 [28Jan2025 02:04:59.885] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 lost connection: Timed out
 [28Jan2025 02:04:59.885] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dragon20O0
 [28Jan2025 02:04:59.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dragon20O0 left the game.
+[28Jan2025 02:10:51.859] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Dragon20O0 is ee7539de-cf01-342a-86a3-178d274f21e1
+[28Jan2025 02:11:04.139] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@337c4bc7
+[28Jan2025 02:11:04.145] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dragon20O0[/127.191.135.241:46487] logged in with entity id 64136 at (14.434242112282613, 172.00496263535433, 4.063549194281604)
+[28Jan2025 02:11:04.274] [Server thread/INFO] [STDOUT/]: printVersionToSceen : UP_TO_DATE, false
+[28Jan2025 02:11:04.715] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dragon20O0 (18)
+[28Jan2025 02:11:04.716] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dragon20O0
+[28Jan2025 02:11:34.234] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 lost connection: Timed out
+[28Jan2025 02:11:34.235] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dragon20O0
+[28Jan2025 02:11:34.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dragon20O0 left the game.
+[28Jan2025 02:15:17.282] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[28Jan2025 02:15:42.660] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Dragon20O0 is ee7539de-cf01-342a-86a3-178d274f21e1
+[28Jan2025 02:15:43.285] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3a610f9c[id=ee7539de-cf01-342a-86a3-178d274f21e1,name=Dragon20O0,properties={},legacy=false] (/127.191.135.241:49763) lost connection: Disconnected
+[28Jan2025 02:17:07.505] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Dragon20O0 is ee7539de-cf01-342a-86a3-178d274f21e1
+[28Jan2025 02:17:09.887] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@f5a09f5
+[28Jan2025 02:17:09.893] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dragon20O0[/127.191.135.241:56425] logged in with entity id 85341 at (14.434242112282613, 172.00496263535433, 4.063549194281604)
+[28Jan2025 02:17:10.012] [Server thread/INFO] [STDOUT/]: printVersionToSceen : UP_TO_DATE, false
+[28Jan2025 02:17:11.099] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dragon20O0 (18)
+[28Jan2025 02:17:11.100] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dragon20O0
+[28Jan2025 02:17:11.582] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[28Jan2025 02:17:16.532] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[28Jan2025 02:17:16.533] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[28Jan2025 02:17:39.936] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 lost connection: Timed out
+[28Jan2025 02:17:39.936] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dragon20O0
+[28Jan2025 02:17:39.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dragon20O0 left the game.
