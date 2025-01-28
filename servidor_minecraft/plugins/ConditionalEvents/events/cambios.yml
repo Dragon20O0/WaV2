@@ -75,7 +75,7 @@ Events:
   
   Mini:
     type: player_death
-    enabled: true
+    enabled: false
     actions:
       default:
       - 'console_command: ll add %player% -1'

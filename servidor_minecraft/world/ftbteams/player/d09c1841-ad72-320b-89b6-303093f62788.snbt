@@ -1,0 +1,17 @@
+{
+	id: "d09c1841-ad72-320b-89b6-303093f62788"
+	type: "player"
+	player_name: "Pinguzp"
+	ranks: {
+		d09c1841-ad72-320b-89b6-303093f62788: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Pinguzp"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFFA"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

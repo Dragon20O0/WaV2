@@ -1,0 +1,17 @@
+{
+	id: "c7e768a9-2885-3e5c-bac9-0dabef32fa80"
+	type: "player"
+	player_name: "remi700_z7"
+	ranks: {
+		c7e768a9-2885-3e5c-bac9-0dabef32fa80: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "remi700_z7"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59B4"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

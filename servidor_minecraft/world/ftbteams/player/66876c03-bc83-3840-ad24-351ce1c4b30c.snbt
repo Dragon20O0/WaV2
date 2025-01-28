@@ -1,0 +1,17 @@
+{
+	id: "66876c03-bc83-3840-ad24-351ce1c4b30c"
+	type: "player"
+	player_name: "remi700_p7"
+	ranks: {
+		66876c03-bc83-3840-ad24-351ce1c4b30c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "remi700_p7"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFEA"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

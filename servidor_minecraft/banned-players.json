@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "uuid": "66876c03-bc83-3840-ad24-351ce1c4b30c",
+    "name": "remi700_p7",
+    "created": "2025-01-28 02:54:26 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]

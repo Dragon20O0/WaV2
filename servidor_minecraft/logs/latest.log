@@ -1,4 +1,4 @@
-[28Jan2025 01:57:52.264] [main/INFO] [Arclight/]: 
+[28Jan2025 21:55:52.301] [main/INFO] [Arclight/]: 
 
        ___           ___     __   /\
       /   | ________/ (_)__ / /  / /
@@ -10,112 +10,112 @@
     运行版本 arclight-1.18.2-1.0.12-fded76e
     构建日期 2024-02-28 15:00:55
 
-[28Jan2025 01:57:52.329] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.14, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
-[28Jan2025 01:57:52.331] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 21.0.5 by Ubuntu
-[28Jan2025 01:57:54.094] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/WaV2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2316!/ Service=ModLauncher Env=SERVER
-[28Jan2025 01:57:54.831] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/WaV2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.14/fmlcore-1.18.2-40.2.14.jar is missing mods.toml file
-[28Jan2025 01:57:54.833] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/WaV2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.14/javafmllanguage-1.18.2-40.2.14.jar is missing mods.toml file
-[28Jan2025 01:57:54.835] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/WaV2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.14/lowcodelanguage-1.18.2-40.2.14.jar is missing mods.toml file
-[28Jan2025 01:57:54.836] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/WaV2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.14/mclanguage-1.18.2-40.2.14.jar is missing mods.toml file
-[28Jan2025 01:57:54.954] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[28Jan2025 01:57:57.881] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[28Jan2025 01:57:58.010] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [io.izzel.arclight.common.mod.ArclightConnector]
-[28Jan2025 01:57:58.041] [main/INFO] [Arclight/]: 核心 Mixin 配置已加载
-[28Jan2025 01:57:58.043] [main/INFO] [Arclight/]: 服务端优化 Mixin 配置已加载
-[28Jan2025 01:57:58.049] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[28Jan2025 01:57:58.110] [main/WARN] [mixin/]: Reference map 'insanelib.refmap.json' for insanelib.mixins.json could not be read. If this is a development environment you can ignore this message
-[28Jan2025 01:57:58.766] [main/WARN] [mixin/]: Error loading class: tallestegg/guardvillagers/entities/Guard (java.lang.ClassNotFoundException: tallestegg.guardvillagers.entities.Guard)
-[28Jan2025 01:57:58.766] [main/WARN] [mixin/]: @Mixin target tallestegg.guardvillagers.entities.Guard was not found difficultraids.mixin.json:compat.GuardMixin
-[28Jan2025 01:57:58.768] [main/WARN] [mixin/]: Error loading class: baguchan/hunterillager/entity/HunterIllagerEntity (java.lang.ClassNotFoundException: baguchan.hunterillager.entity.HunterIllagerEntity)
-[28Jan2025 01:57:58.768] [main/WARN] [mixin/]: @Mixin target baguchan.hunterillager.entity.HunterIllagerEntity was not found difficultraids.mixin.json:compat.HunterIllagerMixin
-[28Jan2025 01:58:17.752] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[28Jan2025 01:58:17.753] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id whisperwoods:main_channel/cdff7a8a5b4f3f218b5f77ef22e66016
-[28Jan2025 01:58:17.756] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id whisperwoods:main_channel/773a011a51b630fba84ab824165fbd92
-[28Jan2025 01:58:17.768] [modloading-worker-0/INFO] [dev.itsmeow.whisperwoods.WhisperwoodsMod/]: Spooking you...
-[28Jan2025 01:58:17.861] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
-[28Jan2025 01:58:17.927] [modloading-worker-0/INFO] [Arclight/]: Arclight Mod 已加载
-[28Jan2025 01:58:17.935] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id itemfilters:main/14e7fa1454283aec8ae811ef844ada28
-[28Jan2025 01:58:17.936] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id itemfilters:main/8f6a899247753217b9d86ab427a2b279
-[28Jan2025 01:58:17.979] [modloading-worker-0/INFO] [Arclight/]: Arclight 事件系统已注册
-[28Jan2025 01:58:17.991] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:open_gui
-[28Jan2025 01:58:18.036] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:update_settings
-[28Jan2025 01:58:18.038] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:send_message
-[28Jan2025 01:58:18.040] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:create_party
-[28Jan2025 01:58:18.041] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:player_gui_operation
-[28Jan2025 01:58:18.080] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.14, for MC 1.18.2 with MCP 20220404.173914
-[28Jan2025 01:58:18.081] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.14 Initialized
-[28Jan2025 01:58:18.267] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:submit_task
-[28Jan2025 01:58:18.268] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_reward
-[28Jan2025 01:58:18.270] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:get_emergency_items
-[28Jan2025 01:58:18.282] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_all_rewards
-[28Jan2025 01:58:18.285] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_choice_reward
-[28Jan2025 01:58:18.288] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_pinned
-[28Jan2025 01:58:18.293] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_chapter_pinned
-[28Jan2025 01:58:18.299] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_editing_mode
-[28Jan2025 01:58:18.300] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:force_save
-[28Jan2025 01:58:18.302] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:set_custom_image
-[28Jan2025 01:58:18.320] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:task_screen_config_resp
-[28Jan2025 01:58:18.333] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:change_progress
-[28Jan2025 01:58:18.345] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:create_object
-[28Jan2025 01:58:18.352] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:create_task_at
-[28Jan2025 01:58:18.353] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:delete_object
-[28Jan2025 01:58:18.354] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:edit_object
-[28Jan2025 01:58:18.359] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_chapter
-[28Jan2025 01:58:18.363] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_quest
-[28Jan2025 01:58:18.367] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:change_chapter_group
-[28Jan2025 01:58:18.369] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_chapter_group
-[28Jan2025 01:58:18.379] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:copy_quest
-[28Jan2025 01:58:18.381] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:copy_chapter_image
-[28Jan2025 01:58:19.197] [main/INFO] [blueduck.dustrial.dustrialdecor.DustrialDecorMod/]: HELLO from Register Block
-[28Jan2025 01:58:21.631] [modloading-worker-0/INFO] [blueduck.dustrial.dustrialdecor.DustrialDecorMod/]: HELLO FROM PREINIT
-[28Jan2025 01:58:21.631] [modloading-worker-0/INFO] [blueduck.dustrial.dustrialdecor.DustrialDecorMod/]: DIRT BLOCK >> minecraft:dirt
-[28Jan2025 01:58:21.632] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[28Jan2025 01:58:21.638] [modloading-worker-0/INFO] [dev.itsmeow.whisperwoods.WhisperwoodsMod/]: Summoning a hidebehind to eat you...
-[28Jan2025 01:58:21.648] [modloading-worker-0/INFO] [Weeping Angels/]: Checking for Vivecraft Client...
-[28Jan2025 01:58:21.654] [modloading-worker-0/INFO] [Weeping Angels/]: Vivecraft not detected!
-[28Jan2025 01:58:22.776] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[28Jan2025 01:58:22.790] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[28Jan2025 01:58:22.795] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[28Jan2025 01:58:22.795] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[28Jan2025 01:58:22.795] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[28Jan2025 01:58:22.970] [main/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id questsadditions:submit_structure
-[28Jan2025 01:58:24.260] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.18.2-2.5.27 Target: null
-[28Jan2025 01:58:24.262] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [weeping_angels] Starting version check at https://api.modrinth.com/updates/weeping-angels/forge_updates.json
-[28Jan2025 01:58:24.447] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [weeping_angels] Found status: UP_TO_DATE Current: 1.0.1 Target: null
-[28Jan2025 01:58:24.447] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.18.2
-[28Jan2025 01:58:24.831] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 8.0.0+17 Target: 8.0.0+17
-[28Jan2025 01:58:24.831] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bananadecor] Starting version check at https://gist.githubusercontent.com/BananaBabyBoss/4d0fb3f15e2a3303ef0dbcf91e27b2cb/raw/
-[28Jan2025 01:58:25.052] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bananadecor] Found status: UP_TO_DATE Current: 1.3 Target: null
-[28Jan2025 01:58:25.052] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [badmobs] Starting version check at https://updates.blamejared.com/get?n=badmobs&gv=1.18.2
-[28Jan2025 01:58:25.155] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [badmobs] Found status: BETA Current: 13.01 Target: 13.01
-[28Jan2025 01:58:25.155] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[28Jan2025 01:58:25.277] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.14 Target: 40.3.0
-[28Jan2025 01:58:29.675] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[28Jan2025 01:58:32.900] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/WaV2/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%23104!/assets/.mcassetsroot' uses unexpected schema
-[28Jan2025 01:58:32.901] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/WaV2/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%23104!/data/.mcassetsroot' uses unexpected schema
-[28Jan2025 01:58:33.984] [main/INFO] [Weeping Angels/]: Added Weeping Angel Spawns to minecraft:desert with min 1 & max 1 with weight 25 || Type MONSTER
-[28Jan2025 01:58:34.023] [main/INFO] [Weeping Angels/]: Added snow angels to minecraft:snowy_taiga
-[28Jan2025 01:58:34.040] [main/INFO] [Weeping Angels/]: Added Weeping Angel Spawns to minecraft:forest with min 1 & max 1 with weight 25 || Type MONSTER
-[28Jan2025 01:58:34.103] [main/INFO] [Weeping Angels/]: Added Weeping Angel Spawns to minecraft:plains with min 1 & max 1 with weight 25 || Type MONSTER
-[28Jan2025 01:58:34.157] [main/INFO] [Weeping Angels/]: Added snow angels to minecraft:snowy_slopes
-[28Jan2025 01:58:34.177] [main/INFO] [Weeping Angels/]: Added snow angels to minecraft:snowy_plains
-[28Jan2025 01:58:34.181] [main/INFO] [Weeping Angels/]: Added Weeping Angel Spawns to minecraft:ocean with min 1 & max 1 with weight 25 || Type MONSTER
-[28Jan2025 01:58:34.183] [main/INFO] [Weeping Angels/]: Added snow angels to minecraft:jagged_peaks
-[28Jan2025 01:58:34.235] [main/INFO] [Weeping Angels/]: Added snow angels to minecraft:frozen_river
-[28Jan2025 01:58:34.251] [main/INFO] [Weeping Angels/]: Added snow angels to minecraft:ice_spikes
-[28Jan2025 01:58:34.261] [main/INFO] [Weeping Angels/]: Added snow angels to nesquiksmod:bioma_fantasma
-[28Jan2025 01:58:34.269] [main/INFO] [Weeping Angels/]: Added snow angels to minecraft:grove
-[28Jan2025 01:58:34.273] [main/INFO] [Weeping Angels/]: Added snow angels to minecraft:snowy_beach
-[28Jan2025 01:58:34.285] [main/INFO] [Weeping Angels/]: Added snow angels to minecraft:frozen_peaks
-[28Jan2025 01:58:34.290] [main/INFO] [Weeping Angels/]: Added snow angels to minecraft:frozen_ocean
-[28Jan2025 01:58:37.708] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[28Jan2025 01:58:37.712] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[28Jan2025 01:58:37.724] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[28Jan2025 01:58:37.728] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[28Jan2025 01:58:37.731] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[28Jan2025 01:58:37.741] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [ftbteams, info, server_id] and [ftbteams, info, team] with inputs: [server_id]
-[28Jan2025 01:58:37.747] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
-[28Jan2025 01:58:38.488] [Worker-Main-6/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't read tag list minecraft:mineable/hoe from minecraft:tags/blocks/mineable/hoe.json in data pack redeco-1.1.0-1.18.2.jar
+[28Jan2025 21:55:52.358] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.14, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+[28Jan2025 21:55:52.359] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 21.0.5 by Ubuntu
+[28Jan2025 21:55:52.546] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/WaV2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2316!/ Service=ModLauncher Env=SERVER
+[28Jan2025 21:55:53.024] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/WaV2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.14/fmlcore-1.18.2-40.2.14.jar is missing mods.toml file
+[28Jan2025 21:55:53.025] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/WaV2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.14/javafmllanguage-1.18.2-40.2.14.jar is missing mods.toml file
+[28Jan2025 21:55:53.027] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/WaV2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.14/lowcodelanguage-1.18.2-40.2.14.jar is missing mods.toml file
+[28Jan2025 21:55:53.028] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/WaV2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.14/mclanguage-1.18.2-40.2.14.jar is missing mods.toml file
+[28Jan2025 21:55:53.106] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[28Jan2025 21:55:55.405] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[28Jan2025 21:55:55.503] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [io.izzel.arclight.common.mod.ArclightConnector]
+[28Jan2025 21:55:55.553] [main/INFO] [Arclight/]: 核心 Mixin 配置已加载
+[28Jan2025 21:55:55.557] [main/INFO] [Arclight/]: 服务端优化 Mixin 配置已加载
+[28Jan2025 21:55:55.566] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[28Jan2025 21:55:55.596] [main/WARN] [mixin/]: Reference map 'insanelib.refmap.json' for insanelib.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Jan2025 21:55:56.181] [main/WARN] [mixin/]: Error loading class: tallestegg/guardvillagers/entities/Guard (java.lang.ClassNotFoundException: tallestegg.guardvillagers.entities.Guard)
+[28Jan2025 21:55:56.181] [main/WARN] [mixin/]: @Mixin target tallestegg.guardvillagers.entities.Guard was not found difficultraids.mixin.json:compat.GuardMixin
+[28Jan2025 21:55:56.182] [main/WARN] [mixin/]: Error loading class: baguchan/hunterillager/entity/HunterIllagerEntity (java.lang.ClassNotFoundException: baguchan.hunterillager.entity.HunterIllagerEntity)
+[28Jan2025 21:55:56.182] [main/WARN] [mixin/]: @Mixin target baguchan.hunterillager.entity.HunterIllagerEntity was not found difficultraids.mixin.json:compat.HunterIllagerMixin
+[28Jan2025 21:56:12.935] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[28Jan2025 21:56:12.939] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id whisperwoods:main_channel/cdff7a8a5b4f3f218b5f77ef22e66016
+[28Jan2025 21:56:12.954] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id whisperwoods:main_channel/773a011a51b630fba84ab824165fbd92
+[28Jan2025 21:56:12.954] [modloading-worker-0/INFO] [dev.itsmeow.whisperwoods.WhisperwoodsMod/]: Spooking you...
+[28Jan2025 21:56:13.030] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[28Jan2025 21:56:13.117] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id itemfilters:main/14e7fa1454283aec8ae811ef844ada28
+[28Jan2025 21:56:13.126] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id itemfilters:main/8f6a899247753217b9d86ab427a2b279
+[28Jan2025 21:56:13.176] [modloading-worker-0/INFO] [Arclight/]: Arclight Mod 已加载
+[28Jan2025 21:56:13.245] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:open_gui
+[28Jan2025 21:56:13.261] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:update_settings
+[28Jan2025 21:56:13.265] [modloading-worker-0/INFO] [Arclight/]: Arclight 事件系统已注册
+[28Jan2025 21:56:13.267] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:send_message
+[28Jan2025 21:56:13.270] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:create_party
+[28Jan2025 21:56:13.278] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:player_gui_operation
+[28Jan2025 21:56:13.335] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.14, for MC 1.18.2 with MCP 20220404.173914
+[28Jan2025 21:56:13.335] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.14 Initialized
+[28Jan2025 21:56:13.643] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:submit_task
+[28Jan2025 21:56:13.650] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_reward
+[28Jan2025 21:56:13.661] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:get_emergency_items
+[28Jan2025 21:56:13.672] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_all_rewards
+[28Jan2025 21:56:13.674] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_choice_reward
+[28Jan2025 21:56:13.677] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_pinned
+[28Jan2025 21:56:13.680] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_chapter_pinned
+[28Jan2025 21:56:13.688] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_editing_mode
+[28Jan2025 21:56:13.689] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:force_save
+[28Jan2025 21:56:13.691] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:set_custom_image
+[28Jan2025 21:56:13.700] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:task_screen_config_resp
+[28Jan2025 21:56:13.713] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:change_progress
+[28Jan2025 21:56:13.716] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:create_object
+[28Jan2025 21:56:13.730] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:create_task_at
+[28Jan2025 21:56:13.731] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:delete_object
+[28Jan2025 21:56:13.732] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:edit_object
+[28Jan2025 21:56:13.740] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_chapter
+[28Jan2025 21:56:13.749] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_quest
+[28Jan2025 21:56:13.753] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:change_chapter_group
+[28Jan2025 21:56:13.760] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_chapter_group
+[28Jan2025 21:56:13.768] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:copy_quest
+[28Jan2025 21:56:13.773] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:copy_chapter_image
+[28Jan2025 21:56:14.461] [main/INFO] [blueduck.dustrial.dustrialdecor.DustrialDecorMod/]: HELLO from Register Block
+[28Jan2025 21:56:17.788] [modloading-worker-0/INFO] [blueduck.dustrial.dustrialdecor.DustrialDecorMod/]: HELLO FROM PREINIT
+[28Jan2025 21:56:17.788] [modloading-worker-0/INFO] [blueduck.dustrial.dustrialdecor.DustrialDecorMod/]: DIRT BLOCK >> minecraft:dirt
+[28Jan2025 21:56:17.790] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[28Jan2025 21:56:17.809] [modloading-worker-0/INFO] [Weeping Angels/]: Checking for Vivecraft Client...
+[28Jan2025 21:56:17.809] [modloading-worker-0/INFO] [Weeping Angels/]: Vivecraft not detected!
+[28Jan2025 21:56:17.815] [modloading-worker-0/INFO] [dev.itsmeow.whisperwoods.WhisperwoodsMod/]: Summoning a hidebehind to eat you...
+[28Jan2025 21:56:18.267] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[28Jan2025 21:56:18.281] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[28Jan2025 21:56:18.281] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[28Jan2025 21:56:18.281] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[28Jan2025 21:56:18.342] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[28Jan2025 21:56:18.442] [main/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id questsadditions:submit_structure
+[28Jan2025 21:56:19.784] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.18.2-2.5.27 Target: null
+[28Jan2025 21:56:19.784] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [weeping_angels] Starting version check at https://api.modrinth.com/updates/weeping-angels/forge_updates.json
+[28Jan2025 21:56:20.100] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [weeping_angels] Found status: UP_TO_DATE Current: 1.0.1 Target: null
+[28Jan2025 21:56:20.100] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.18.2
+[28Jan2025 21:56:20.530] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 8.0.0+17 Target: 8.0.0+17
+[28Jan2025 21:56:20.530] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bananadecor] Starting version check at https://gist.githubusercontent.com/BananaBabyBoss/4d0fb3f15e2a3303ef0dbcf91e27b2cb/raw/
+[28Jan2025 21:56:20.921] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bananadecor] Found status: UP_TO_DATE Current: 1.3 Target: null
+[28Jan2025 21:56:20.921] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [badmobs] Starting version check at https://updates.blamejared.com/get?n=badmobs&gv=1.18.2
+[28Jan2025 21:56:21.030] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [badmobs] Found status: BETA Current: 13.01 Target: 13.01
+[28Jan2025 21:56:21.030] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[28Jan2025 21:56:21.158] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.14 Target: 40.3.0
+[28Jan2025 21:56:25.812] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[28Jan2025 21:56:29.034] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/WaV2/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%23104!/assets/.mcassetsroot' uses unexpected schema
+[28Jan2025 21:56:29.034] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/WaV2/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%23104!/data/.mcassetsroot' uses unexpected schema
+[28Jan2025 21:56:30.505] [main/INFO] [Weeping Angels/]: Added Weeping Angel Spawns to minecraft:forest with min 1 & max 1 with weight 25 || Type MONSTER
+[28Jan2025 21:56:30.513] [main/INFO] [Weeping Angels/]: Added snow angels to minecraft:snowy_plains
+[28Jan2025 21:56:30.523] [main/INFO] [Weeping Angels/]: Added snow angels to minecraft:frozen_river
+[28Jan2025 21:56:30.548] [main/INFO] [Weeping Angels/]: Added snow angels to minecraft:snowy_beach
+[28Jan2025 21:56:30.581] [main/INFO] [Weeping Angels/]: Added Weeping Angel Spawns to minecraft:desert with min 1 & max 1 with weight 25 || Type MONSTER
+[28Jan2025 21:56:30.615] [main/INFO] [Weeping Angels/]: Added snow angels to nesquiksmod:bioma_fantasma
+[28Jan2025 21:56:30.654] [main/INFO] [Weeping Angels/]: Added snow angels to minecraft:snowy_taiga
+[28Jan2025 21:56:30.658] [main/INFO] [Weeping Angels/]: Added snow angels to minecraft:jagged_peaks
+[28Jan2025 21:56:30.665] [main/INFO] [Weeping Angels/]: Added snow angels to minecraft:grove
+[28Jan2025 21:56:30.668] [main/INFO] [Weeping Angels/]: Added snow angels to minecraft:snowy_slopes
+[28Jan2025 21:56:30.676] [main/INFO] [Weeping Angels/]: Added Weeping Angel Spawns to minecraft:ocean with min 1 & max 1 with weight 25 || Type MONSTER
+[28Jan2025 21:56:30.702] [main/INFO] [Weeping Angels/]: Added snow angels to minecraft:frozen_ocean
+[28Jan2025 21:56:30.719] [main/INFO] [Weeping Angels/]: Added Weeping Angel Spawns to minecraft:plains with min 1 & max 1 with weight 25 || Type MONSTER
+[28Jan2025 21:56:30.725] [main/INFO] [Weeping Angels/]: Added snow angels to minecraft:frozen_peaks
+[28Jan2025 21:56:30.727] [main/INFO] [Weeping Angels/]: Added snow angels to minecraft:ice_spikes
+[28Jan2025 21:56:33.427] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[28Jan2025 21:56:33.428] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[28Jan2025 21:56:33.440] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[28Jan2025 21:56:33.441] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[28Jan2025 21:56:33.442] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[28Jan2025 21:56:33.463] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [ftbteams, info, server_id] and [ftbteams, info, team] with inputs: [server_id]
+[28Jan2025 21:56:33.465] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[28Jan2025 21:56:33.994] [Worker-Main-5/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't read tag list minecraft:mineable/hoe from minecraft:tags/blocks/mineable/hoe.json in data pack redeco-1.1.0-1.18.2.jar
 com.google.gson.JsonParseException: java.io.EOFException: End of input at line 1 column 1 path $
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:505) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?] {re:classloading,re:mixin}
 	at net.minecraft.util.GsonHelper.m_13776_(GsonHelper.java:542) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?] {re:classloading,re:mixin}
@@ -138,7 +138,7 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 	at com.google.gson.internal.bind.TypeAdapters$33$1.read(TypeAdapters.java:866) ~[gson-2.8.9.jar%2323!/:?] {}
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:503) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?] {re:classloading,re:mixin}
 	... 11 more
-[28Jan2025 01:58:38.561] [Worker-Main-6/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't read tag list minecraft:mineable/shovel from minecraft:tags/blocks/mineable/shovel.json in data pack redeco-1.1.0-1.18.2.jar
+[28Jan2025 21:56:34.015] [Worker-Main-5/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't read tag list minecraft:mineable/shovel from minecraft:tags/blocks/mineable/shovel.json in data pack redeco-1.1.0-1.18.2.jar
 com.google.gson.JsonParseException: java.io.EOFException: End of input at line 1 column 1 path $
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:505) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?] {re:classloading,re:mixin}
 	at net.minecraft.util.GsonHelper.m_13776_(GsonHelper.java:542) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?] {re:classloading,re:mixin}
@@ -161,8 +161,8 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 	at com.google.gson.internal.bind.TypeAdapters$33$1.read(TypeAdapters.java:866) ~[gson-2.8.9.jar%2323!/:?] {}
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:503) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?] {re:classloading,re:mixin}
 	... 11 more
-[28Jan2025 01:58:41.920] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:mini_padded_vertical_slab_to_slab as it's serializer returned null
-[28Jan2025 01:58:41.924] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nesquiksmod:puerta_valla_receta
+[28Jan2025 21:56:37.979] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:mini_padded_vertical_slab_to_slab as it's serializer returned null
+[28Jan2025 21:56:37.983] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nesquiksmod:puerta_valla_receta
 com.google.gson.JsonSyntaxException: Unknown item 'nesquiksmod:deleted_mod_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:155) ~[forge-1.18.2-40.2.14-universal.jar%23109!/:?] {re:classloading,re:mixin}
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:181) ~[forge-1.18.2-40.2.14-universal.jar%23109!/:?] {re:classloading,re:mixin}
@@ -209,14 +209,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'nesquiksmod:deleted_mod_eleme
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?] {}
-[28Jan2025 01:58:41.932] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:sheet_metal_treading_vertical_slab as it's serializer returned null
-[28Jan2025 01:58:41.933] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:sheet_metal_plating_vertical_slab_to_slab as it's serializer returned null
-[28Jan2025 01:58:41.937] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:ice_chain as it's serializer returned null
-[28Jan2025 01:58:41.950] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:cinder_brick_vertical_slab_to_slab as it's serializer returned null
-[28Jan2025 01:58:41.951] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:rusty_sheet_metal_treading_vertical_slab as it's serializer returned null
-[28Jan2025 01:58:41.953] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:cast_iron_brick_vertical_slab as it's serializer returned null
-[28Jan2025 01:58:41.954] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:rusty_sheet_metal_treading_vertical_slab_to_slab as it's serializer returned null
-[28Jan2025 01:58:41.963] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nesquiksmod:cyanwool_receta
+[28Jan2025 21:56:37.989] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:sheet_metal_treading_vertical_slab as it's serializer returned null
+[28Jan2025 21:56:37.996] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:sheet_metal_plating_vertical_slab_to_slab as it's serializer returned null
+[28Jan2025 21:56:38.008] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:ice_chain as it's serializer returned null
+[28Jan2025 21:56:38.039] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:cinder_brick_vertical_slab_to_slab as it's serializer returned null
+[28Jan2025 21:56:38.040] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:rusty_sheet_metal_treading_vertical_slab as it's serializer returned null
+[28Jan2025 21:56:38.042] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:cast_iron_brick_vertical_slab as it's serializer returned null
+[28Jan2025 21:56:38.045] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:rusty_sheet_metal_treading_vertical_slab_to_slab as it's serializer returned null
+[28Jan2025 21:56:38.055] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nesquiksmod:cyanwool_receta
 com.google.gson.JsonSyntaxException: Unknown item 'nesquiksmod:deleted_mod_element'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipeMixin.java:276) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.core.json:world.item.crafting.ShapedRecipeMixin,pl:mixin:A}
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?] {re:mixin}
@@ -268,9 +268,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'nesquiksmod:deleted_mod_eleme
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?] {}
-[28Jan2025 01:58:41.967] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:cinder_brick_vertical_slab as it's serializer returned null
-[28Jan2025 01:58:41.970] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:sheet_metal_treading_vertical_slab_to_slab as it's serializer returned null
-[28Jan2025 01:58:41.974] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nesquiksmod:pechera_angel
+[28Jan2025 21:56:38.068] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:cinder_brick_vertical_slab as it's serializer returned null
+[28Jan2025 21:56:38.075] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:sheet_metal_treading_vertical_slab_to_slab as it's serializer returned null
+[28Jan2025 21:56:38.081] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nesquiksmod:pechera_angel
 com.google.gson.JsonSyntaxException: Unknown item 'nesquiksmod:deleted_mod_element'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipeMixin.java:276) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.core.json:world.item.crafting.ShapedRecipeMixin,pl:mixin:A}
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?] {re:mixin}
@@ -322,9 +322,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'nesquiksmod:deleted_mod_eleme
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?] {}
-[28Jan2025 01:58:41.977] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:smooth_cardboard_vertical_slab_to_slab as it's serializer returned null
-[28Jan2025 01:58:41.978] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:smooth_cardboard_vertical_slab as it's serializer returned null
-[28Jan2025 01:58:41.986] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nesquiksmod:slime_receta
+[28Jan2025 21:56:38.087] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:smooth_cardboard_vertical_slab_to_slab as it's serializer returned null
+[28Jan2025 21:56:38.087] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:smooth_cardboard_vertical_slab as it's serializer returned null
+[28Jan2025 21:56:38.092] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nesquiksmod:slime_receta
 com.google.gson.JsonSyntaxException: Unknown item 'nesquiksmod:deleted_mod_element'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipeMixin.java:276) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.core.json:world.item.crafting.ShapedRecipeMixin,pl:mixin:A}
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?] {re:mixin}
@@ -375,8 +375,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'nesquiksmod:deleted_mod_eleme
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?] {}
-[28Jan2025 01:58:41.997] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:cast_iron_brick_vertical_slab_to_slab as it's serializer returned null
-[28Jan2025 01:58:42.015] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nesquiksmod:pantalones_angel
+[28Jan2025 21:56:38.108] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:cast_iron_brick_vertical_slab_to_slab as it's serializer returned null
+[28Jan2025 21:56:38.238] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nesquiksmod:pantalones_angel
 com.google.gson.JsonSyntaxException: Unknown item 'nesquiksmod:deleted_mod_element'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipeMixin.java:276) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.core.json:world.item.crafting.ShapedRecipeMixin,pl:mixin:A}
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?] {re:mixin}
@@ -428,16 +428,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'nesquiksmod:deleted_mod_eleme
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?] {}
-[28Jan2025 01:58:42.017] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:wrapped_ice_chains as it's serializer returned null
-[28Jan2025 01:58:42.019] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:bolted_industrial_iron_vertical_slab_to_slab as it's serializer returned null
-[28Jan2025 01:58:42.022] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:large_cursed_lantern as it's serializer returned null
-[28Jan2025 01:58:42.023] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:rusty_sheet_metal_plating_vertical_slab as it's serializer returned null
-[28Jan2025 01:58:42.025] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:mini_padded_vertical_slab as it's serializer returned null
-[28Jan2025 01:58:42.027] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:rusty_sheet_metal_plating_vertical_slab_to_slab as it's serializer returned null
-[28Jan2025 01:58:42.029] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:bolted_industrial_iron_vertical_slab as it's serializer returned null
-[28Jan2025 01:58:42.031] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:sheet_metal_plating_vertical_slab as it's serializer returned null
-[28Jan2025 01:58:42.034] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:ice_chain_from_wrapped as it's serializer returned null
-[28Jan2025 01:58:42.044] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nesquiksmod:botas_angel
+[28Jan2025 21:56:38.239] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:wrapped_ice_chains as it's serializer returned null
+[28Jan2025 21:56:38.244] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:bolted_industrial_iron_vertical_slab_to_slab as it's serializer returned null
+[28Jan2025 21:56:38.246] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:large_cursed_lantern as it's serializer returned null
+[28Jan2025 21:56:38.247] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:rusty_sheet_metal_plating_vertical_slab as it's serializer returned null
+[28Jan2025 21:56:38.247] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:mini_padded_vertical_slab as it's serializer returned null
+[28Jan2025 21:56:38.256] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:rusty_sheet_metal_plating_vertical_slab_to_slab as it's serializer returned null
+[28Jan2025 21:56:38.257] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:bolted_industrial_iron_vertical_slab as it's serializer returned null
+[28Jan2025 21:56:38.257] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:sheet_metal_plating_vertical_slab as it's serializer returned null
+[28Jan2025 21:56:38.259] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:ice_chain_from_wrapped as it's serializer returned null
+[28Jan2025 21:56:38.260] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nesquiksmod:botas_angel
 com.google.gson.JsonSyntaxException: Unknown item 'nesquiksmod:deleted_mod_element'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipeMixin.java:276) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.core.json:world.item.crafting.ShapedRecipeMixin,pl:mixin:A}
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?] {re:mixin}
@@ -489,7 +489,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'nesquiksmod:deleted_mod_eleme
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?] {}
-[28Jan2025 01:58:42.062] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nesquiksmod:casco_angel
+[28Jan2025 21:56:38.261] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nesquiksmod:casco_angel
 com.google.gson.JsonSyntaxException: Unknown item 'nesquiksmod:deleted_mod_element'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipeMixin.java:276) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.core.json:world.item.crafting.ShapedRecipeMixin,pl:mixin:A}
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?] {re:mixin}
@@ -541,11 +541,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'nesquiksmod:deleted_mod_eleme
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?] {}
-[28Jan2025 01:58:42.064] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:large_ice_chain as it's serializer returned null
-[28Jan2025 01:58:42.065] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:large_ender_lantern as it's serializer returned null
-[28Jan2025 01:58:42.065] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:large_glow_lantern as it's serializer returned null
-[28Jan2025 01:58:42.069] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[28Jan2025 01:58:42.894] [Worker-Main-6/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table dustrial_decor:blocks/mini_padded_vertical_slab
+[28Jan2025 21:56:38.261] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:large_ice_chain as it's serializer returned null
+[28Jan2025 21:56:38.262] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:large_ender_lantern as it's serializer returned null
+[28Jan2025 21:56:38.262] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe dustrial_decor:large_glow_lantern as it's serializer returned null
+[28Jan2025 21:56:38.282] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[28Jan2025 21:56:38.698] [Worker-Main-5/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table dustrial_decor:blocks/mini_padded_vertical_slab
 java.lang.IllegalArgumentException: Can't find block dustrial_decor:mini_padded_vertical_slab
 	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_81802_(LootItemBlockStatePropertyCondition.java:79) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?] {re:classloading}
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?] {re:mixin}
@@ -649,7 +649,7 @@ java.lang.IllegalArgumentException: Can't find block dustrial_decor:mini_padded_
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?] {}
-[28Jan2025 01:58:42.897] [Worker-Main-6/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table dustrial_decor:blocks/wrapped_ice_chains
+[28Jan2025 21:56:38.722] [Worker-Main-5/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table dustrial_decor:blocks/wrapped_ice_chains
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'dustrial_decor:wrapped_ice_chains'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:130) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?] {re:classloading,re:mixin}
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?] {re:mixin}
@@ -735,7 +735,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?] {}
-[28Jan2025 01:58:43.000] [Worker-Main-6/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table redeco:blocks/soul_terrarium
+[28Jan2025 21:56:38.808] [Worker-Main-5/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table redeco:blocks/soul_terrarium
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'redeco:soul_terrarium'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:130) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?] {re:classloading,re:mixin}
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?] {re:mixin}
@@ -821,7 +821,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?] {}
-[28Jan2025 01:58:43.054] [Worker-Main-6/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table dustrial_decor:blocks/large_ice_chain
+[28Jan2025 21:56:38.844] [Worker-Main-5/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table dustrial_decor:blocks/large_ice_chain
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'dustrial_decor:large_ice_chain'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:130) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?] {re:classloading,re:mixin}
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?] {re:mixin}
@@ -907,7 +907,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?] {}
-[28Jan2025 01:58:43.120] [Worker-Main-6/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table dustrial_decor:blocks/large_cursed_lantern
+[28Jan2025 21:56:38.919] [Worker-Main-5/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table dustrial_decor:blocks/large_cursed_lantern
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'dustrial_decor:large_cursed_lantern'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:130) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?] {re:classloading,re:mixin}
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?] {re:mixin}
@@ -993,7 +993,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?] {}
-[28Jan2025 01:58:43.158] [Worker-Main-6/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table dustrial_decor:blocks/cast_iron_brick_vertical_slab
+[28Jan2025 21:56:38.957] [Worker-Main-5/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table dustrial_decor:blocks/cast_iron_brick_vertical_slab
 java.lang.IllegalArgumentException: Can't find block dustrial_decor:cast_iron_brick_vertical_slab
 	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_81802_(LootItemBlockStatePropertyCondition.java:79) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?] {re:classloading}
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?] {re:mixin}
@@ -1097,7 +1097,7 @@ java.lang.IllegalArgumentException: Can't find block dustrial_decor:cast_iron_br
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?] {}
-[28Jan2025 01:58:43.250] [Worker-Main-6/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table dustrial_decor:blocks/rusty_sheet_metal_paneling_vertical_slab
+[28Jan2025 21:56:39.073] [Worker-Main-5/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table dustrial_decor:blocks/rusty_sheet_metal_paneling_vertical_slab
 java.lang.IllegalArgumentException: Can't find block dustrial_decor:rusty_sheet_metal_paneling_vertical_slab
 	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_81802_(LootItemBlockStatePropertyCondition.java:79) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?] {re:classloading}
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?] {re:mixin}
@@ -1201,7 +1201,7 @@ java.lang.IllegalArgumentException: Can't find block dustrial_decor:rusty_sheet_
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?] {}
-[28Jan2025 01:58:43.346] [Worker-Main-6/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table dustrial_decor:blocks/bolted_industrial_iron_vertical_slab
+[28Jan2025 21:56:39.173] [Worker-Main-5/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table dustrial_decor:blocks/bolted_industrial_iron_vertical_slab
 java.lang.IllegalArgumentException: Can't find block dustrial_decor:bolted_industrial_iron_vertical_slab
 	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_81802_(LootItemBlockStatePropertyCondition.java:79) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?] {re:classloading}
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?] {re:mixin}
@@ -1305,7 +1305,7 @@ java.lang.IllegalArgumentException: Can't find block dustrial_decor:bolted_indus
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?] {}
-[28Jan2025 01:58:43.370] [Worker-Main-6/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table dustrial_decor:blocks/sheet_metal_paneling_vertical_slab
+[28Jan2025 21:56:39.206] [Worker-Main-5/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table dustrial_decor:blocks/sheet_metal_paneling_vertical_slab
 java.lang.IllegalArgumentException: Can't find block dustrial_decor:sheet_metal_paneling_vertical_slab
 	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_81802_(LootItemBlockStatePropertyCondition.java:79) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?] {re:classloading}
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?] {re:mixin}
@@ -1409,7 +1409,7 @@ java.lang.IllegalArgumentException: Can't find block dustrial_decor:sheet_metal_
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?] {}
-[28Jan2025 01:58:43.427] [Worker-Main-6/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table dustrial_decor:blocks/smooth_cardboard_vertical_slab
+[28Jan2025 21:56:39.296] [Worker-Main-5/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table dustrial_decor:blocks/smooth_cardboard_vertical_slab
 java.lang.IllegalArgumentException: Can't find block dustrial_decor:smooth_cardboard_vertical_slab
 	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_81802_(LootItemBlockStatePropertyCondition.java:79) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?] {re:classloading}
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?] {re:mixin}
@@ -1513,7 +1513,7 @@ java.lang.IllegalArgumentException: Can't find block dustrial_decor:smooth_cardb
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?] {}
-[28Jan2025 01:58:43.455] [Worker-Main-6/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table dustrial_decor:blocks/cinder_brick_vertical_slab
+[28Jan2025 21:56:39.331] [Worker-Main-5/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table dustrial_decor:blocks/cinder_brick_vertical_slab
 java.lang.IllegalArgumentException: Can't find block dustrial_decor:cinder_brick_vertical_slab
 	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_81802_(LootItemBlockStatePropertyCondition.java:79) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?] {re:classloading}
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?] {re:mixin}
@@ -1617,7 +1617,7 @@ java.lang.IllegalArgumentException: Can't find block dustrial_decor:cinder_brick
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?] {}
-[28Jan2025 01:58:43.541] [Worker-Main-6/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table dustrial_decor:blocks/sheet_metal_treading_vertical_slab
+[28Jan2025 21:56:39.458] [Worker-Main-5/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table dustrial_decor:blocks/sheet_metal_treading_vertical_slab
 java.lang.IllegalArgumentException: Can't find block dustrial_decor:sheet_metal_treading_vertical_slab
 	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_81802_(LootItemBlockStatePropertyCondition.java:79) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?] {re:classloading}
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?] {re:mixin}
@@ -1721,7 +1721,7 @@ java.lang.IllegalArgumentException: Can't find block dustrial_decor:sheet_metal_
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?] {}
-[28Jan2025 01:58:43.555] [Worker-Main-6/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table dustrial_decor:blocks/large_ender_lantern
+[28Jan2025 21:56:39.482] [Worker-Main-5/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table dustrial_decor:blocks/large_ender_lantern
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'dustrial_decor:large_ender_lantern'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:130) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?] {re:classloading,re:mixin}
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?] {re:mixin}
@@ -1807,7 +1807,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?] {}
-[28Jan2025 01:58:43.579] [Worker-Main-6/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table dustrial_decor:blocks/rusty_sheet_metal_treading_vertical_slab
+[28Jan2025 21:56:39.526] [Worker-Main-5/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table dustrial_decor:blocks/rusty_sheet_metal_treading_vertical_slab
 java.lang.IllegalArgumentException: Can't find block dustrial_decor:rusty_sheet_metal_treading_vertical_slab
 	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_81802_(LootItemBlockStatePropertyCondition.java:79) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?] {re:classloading}
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?] {re:mixin}
@@ -1911,7 +1911,7 @@ java.lang.IllegalArgumentException: Can't find block dustrial_decor:rusty_sheet_
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?] {}
-[28Jan2025 01:58:43.638] [Worker-Main-6/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table dustrial_decor:blocks/large_glow_lantern
+[28Jan2025 21:56:39.659] [Worker-Main-5/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table dustrial_decor:blocks/large_glow_lantern
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'dustrial_decor:large_glow_lantern'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:130) ~[server-1.18.2-20220404.173914-srg.jar%23104!/:?] {re:classloading,re:mixin}
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?] {re:mixin}
@@ -1997,323 +1997,303 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?] {re:computing_frames}
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?] {}
-[28Jan2025 01:58:44.406] [Worker-Main-6/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1166 advancements
-[28Jan2025 01:58:47.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
-[28Jan2025 01:58:47.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[28Jan2025 01:58:47.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[28Jan2025 01:58:47.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[28Jan2025 01:58:47.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[28Jan2025 01:58:47.577] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[28Jan2025 01:58:47.899] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[28Jan2025 01:58:47.900] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[28Jan2025 01:58:47.901] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[28Jan2025 01:58:47.901] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[28Jan2025 01:58:48.797] [Server thread/INFO] [Minecraft/]: This server is running Arclight version arclight-1.18.2-1.0.12-fded76e (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT)
-[28Jan2025 01:58:48.926] [Server thread/INFO] [Arclight/]: 正在向 Bukkit 注册 ...
-[28Jan2025 01:58:51.336] [Server thread/INFO] [Arclight/]: 注册了 898 个材料，其中 587 个方块 311 个物品
-[28Jan2025 01:58:51.350] [Server thread/INFO] [Arclight/]: 注册了 14 个新的药水效果
-[28Jan2025 01:58:51.365] [Server thread/INFO] [Arclight/]: 注册了 46 个新的附魔
-[28Jan2025 01:58:51.389] [Server thread/INFO] [Arclight/]: 注册了 105 个新的生物类型
-[28Jan2025 01:58:51.390] [Server thread/INFO] [Arclight/]: 注册了 0 个新的村民职业
-[28Jan2025 01:58:51.392] [Server thread/INFO] [Arclight/]: 注册了 2 个新的生物群系
-[28Jan2025 01:58:51.440] [Server thread/INFO] [STDOUT/]: Server Ping Player Sample Count: 12
-[28Jan2025 01:58:51.446] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
-[28Jan2025 01:58:51.448] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
-[28Jan2025 01:58:52.598] [Server thread/INFO] [Arclight/]: 正在加载混淆数据 ...
-[28Jan2025 01:58:53.549] [Server thread/INFO] [Arclight/]: 正在加载 Plugin Patcher ...
-[28Jan2025 01:58:56.425] [Server thread/INFO] [Minecraft/]: [WolfyUtilities] Loading 3 libraries... please wait
-[28Jan2025 01:58:56.852] [Server thread/INFO] [Minecraft/]: [WolfyUtilities] Loaded library /workspaces/WaV2/servidor_minecraft/libraries/com/google/inject/guice/5.1.0/guice-5.1.0.jar
-[28Jan2025 01:58:56.861] [Server thread/INFO] [Minecraft/]: [WolfyUtilities] Loaded library /workspaces/WaV2/servidor_minecraft/libraries/javax/inject/javax.inject/1/javax.inject-1.jar
-[28Jan2025 01:58:56.861] [Server thread/INFO] [Minecraft/]: [WolfyUtilities] Loaded library /workspaces/WaV2/servidor_minecraft/libraries/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
-[28Jan2025 01:58:56.862] [Server thread/INFO] [Minecraft/]: [WolfyUtilities] Loaded library /workspaces/WaV2/servidor_minecraft/libraries/com/google/guava/guava/30.1-jre/guava-30.1-jre.jar
-[28Jan2025 01:58:56.862] [Server thread/INFO] [Minecraft/]: [WolfyUtilities] Loaded library /workspaces/WaV2/servidor_minecraft/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar
-[28Jan2025 01:58:56.863] [Server thread/INFO] [Minecraft/]: [WolfyUtilities] Loaded library /workspaces/WaV2/servidor_minecraft/libraries/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
-[28Jan2025 01:58:56.863] [Server thread/INFO] [Minecraft/]: [WolfyUtilities] Loaded library /workspaces/WaV2/servidor_minecraft/libraries/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar
-[28Jan2025 01:58:56.863] [Server thread/INFO] [Minecraft/]: [WolfyUtilities] Loaded library /workspaces/WaV2/servidor_minecraft/libraries/org/checkerframework/checker-qual/3.5.0/checker-qual-3.5.0.jar
-[28Jan2025 01:58:56.864] [Server thread/INFO] [Minecraft/]: [WolfyUtilities] Loaded library /workspaces/WaV2/servidor_minecraft/libraries/com/google/errorprone/error_prone_annotations/2.3.4/error_prone_annotations-2.3.4.jar
-[28Jan2025 01:58:56.864] [Server thread/INFO] [Minecraft/]: [WolfyUtilities] Loaded library /workspaces/WaV2/servidor_minecraft/libraries/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar
-[28Jan2025 01:58:56.865] [Server thread/INFO] [Minecraft/]: [WolfyUtilities] Loaded library /workspaces/WaV2/servidor_minecraft/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar
-[28Jan2025 01:58:56.865] [Server thread/INFO] [Minecraft/]: [WolfyUtilities] Loaded library /workspaces/WaV2/servidor_minecraft/libraries/it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.jar
-[28Jan2025 01:58:59.094] [Server thread/INFO] [WolfyUtilities/]: NMS Version: v1_18_R2
-[28Jan2025 01:59:00.421] [Server thread/INFO] [me.wolfyscript.lib.org.reflections.Reflections/]: Reflections took 1222 ms to scan 1 urls, producing 913 keys and 3659 values
-[28Jan2025 01:59:00.859] [Server thread/INFO] [WolfyUtilities/]: Register Default StackIdentifiers
-[28Jan2025 01:59:01.179] [Server thread/WARN] [CustomCrafting/]: Paper not detected! Not using performance improvements.
-[28Jan2025 01:59:01.180] [Server thread/INFO] [CustomCrafting/]: NMS Version: v1_18_R2
-[28Jan2025 01:59:01.680] [Server thread/INFO] [WorldEdit/]: Loading WorldEdit v7.2.10+1742f98
-[28Jan2025 01:59:02.707] [Server thread/WARN] [WorldEdit/]: Loaded class javax.annotation.Nullable from DiscordSRV v1.28.0 which is not a depend or softdepend of this plugin.
-[28Jan2025 01:59:02.770] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@24f7624a]
-[28Jan2025 01:59:02.779] [Server thread/INFO] [LoginSecurity/]: Loading LoginSecurity v3.3.0
-[28Jan2025 01:59:02.783] [Server thread/INFO] [PlaceholderAPI/]: Loading PlaceholderAPI v2.11.6
-[28Jan2025 01:59:02.783] [Server thread/INFO] [WorldGuard/]: Loading WorldGuard v7.0.7+216b061
-[28Jan2025 01:59:02.783] [Server thread/INFO] [ItemEditor/]: Loading ItemEditor v2.0.3
-[28Jan2025 01:59:02.783] [Server thread/INFO] [DiscordSRV/]: Loading DiscordSRV v1.28.0
-[28Jan2025 01:59:02.783] [Server thread/INFO] [WolfyUtilities/]: Loading WolfyUtilities v4.17-beta.1
-[28Jan2025 01:59:02.784] [Server thread/INFO] [WolfyUtilities/]: Generate Functional Recipes
-[28Jan2025 01:59:05.058] [Server thread/INFO] [WolfyUtilities/]: Register JSON de-/serializers
-[28Jan2025 01:59:05.099] [Server thread/INFO] [WolfyUtilities/]: Register JSON Operators
-[28Jan2025 01:59:05.106] [Server thread/INFO] [WolfyUtilities/]: Register JSON Value Providers
-[28Jan2025 01:59:05.113] [Server thread/INFO] [WolfyUtilities/]: Register CustomItem NBT Checks
-[28Jan2025 01:59:05.117] [Server thread/INFO] [WolfyUtilities/]: Register CustomItem Actions
-[28Jan2025 01:59:05.126] [Server thread/INFO] [WolfyUtilities/]: Register CustomItem Events
-[28Jan2025 01:59:05.131] [Server thread/INFO] [WolfyUtilities/]: Register Particle Animators
-[28Jan2025 01:59:05.142] [Server thread/INFO] [WolfyUtilities/]: Register Particle Shapes
-[28Jan2025 01:59:05.153] [Server thread/INFO] [WolfyUtilities/]: Register Particle Timers
-[28Jan2025 01:59:05.155] [Server thread/INFO] [WolfyUtilities/]: Register Custom Block Data
-[28Jan2025 01:59:05.162] [Server thread/INFO] [WolfyUtilities/]: Register Custom Player Data
-[28Jan2025 01:59:05.188] [Server thread/INFO] [WolfyUtilities/]: Register NBT Query Nodes
-[28Jan2025 01:59:05.219] [Server thread/INFO] [CustomCrafting/]: Loading CustomCrafting v4.16.9.1
-[28Jan2025 01:59:05.226] [Server thread/INFO] [CustomCrafting/]: WolfyUtils API: v4.17-beta.1
-[28Jan2025 01:59:05.227] [Server thread/INFO] [CustomCrafting/]: CustomCrafting: v4.16.9.1
-[28Jan2025 01:59:05.228] [Server thread/INFO] [CustomCrafting/]: Environment   : PROD
-[28Jan2025 01:59:05.233] [Server thread/INFO] [CustomCrafting/]: Registering CustomItem Data
-[28Jan2025 01:59:05.259] [Server thread/INFO] [CustomCrafting/]: Registering Custom Block Data
-[28Jan2025 01:59:05.263] [Server thread/INFO] [CustomCrafting/]: Registering Result Extensions
-[28Jan2025 01:59:05.269] [Server thread/INFO] [CustomCrafting/]: Registering Result Merge Adapters
-[28Jan2025 01:59:05.310] [Server thread/INFO] [CustomCrafting/]: Registering Recipe Conditions
-[28Jan2025 01:59:05.363] [Server thread/INFO] [CustomCrafting/]: Registering Recipe Types
-[28Jan2025 01:59:05.366] [Server thread/INFO] [CustomCrafting/]: Registering Anvil Recipe Tasks
-[28Jan2025 01:59:05.368] [Server thread/INFO] [CustomCrafting/]: Registering Type Registries
-[28Jan2025 01:59:05.373] [Server thread/INFO] [ConditionalEvents/]: Loading ConditionalEvents v4.59.1
-[28Jan2025 01:59:05.381] [Server thread/INFO] [WorldEdit/]: Enabling WorldEdit v7.2.10+1742f98
-[28Jan2025 01:59:06.335] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[28Jan2025 01:59:06.549] [Server thread/INFO] [com.sk89q.wepif.PermissionsResolverManager/]: WEPIF: Using the Bukkit Permissions API.
-[28Jan2025 01:59:07.040] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_18_R2.PaperweightAdapter as the Bukkit adapter
-[28Jan2025 01:59:08.942] [Server thread/INFO] [WorldEdit/]: ====================================================
-[28Jan2025 01:59:08.942] [Server thread/INFO] [WorldEdit/]:  WorldEdit works better if you use Paper 
-[28Jan2025 01:59:08.942] [Server thread/INFO] [WorldEdit/]:  as your server software. 
-[28Jan2025 01:59:08.942] [Server thread/INFO] [WorldEdit/]:   
-[28Jan2025 01:59:08.942] [Server thread/INFO] [WorldEdit/]:  Paper offers significant performance improvements,
-[28Jan2025 01:59:08.942] [Server thread/INFO] [WorldEdit/]:  bug fixes, security enhancements and optional
-[28Jan2025 01:59:08.942] [Server thread/INFO] [WorldEdit/]:  features for server owners to enhance their server.
-[28Jan2025 01:59:08.942] [Server thread/INFO] [WorldEdit/]:   
-[28Jan2025 01:59:08.942] [Server thread/INFO] [WorldEdit/]:  Paper includes Timings v2, which is significantly
-[28Jan2025 01:59:08.942] [Server thread/INFO] [WorldEdit/]:  better at diagnosing lag problems over v1.
-[28Jan2025 01:59:08.943] [Server thread/INFO] [WorldEdit/]:   
-[28Jan2025 01:59:08.943] [Server thread/INFO] [WorldEdit/]:  All of your plugins should still work, and the
-[28Jan2025 01:59:08.943] [Server thread/INFO] [WorldEdit/]:  Paper community will gladly help you fix any issues.
-[28Jan2025 01:59:08.943] [Server thread/INFO] [WorldEdit/]:   
-[28Jan2025 01:59:08.943] [Server thread/INFO] [WorldEdit/]:  Join the Paper Community @ https://papermc.io
-[28Jan2025 01:59:08.943] [Server thread/INFO] [WorldEdit/]: ====================================================
-[28Jan2025 01:59:08.945] [Server thread/INFO] [WolfyUtilities/]: Enabling WolfyUtilities v4.17-beta.1
-[28Jan2025 01:59:08.951] [Server thread/INFO] [WolfyUtilities/]: Minecraft version: 1.18.2
-[28Jan2025 01:59:08.951] [Server thread/INFO] [WolfyUtilities/]: WolfyUtils version: 4.17.0.0
-[28Jan2025 01:59:08.951] [Server thread/INFO] [WolfyUtilities/]: Environment: PROD
-[28Jan2025 01:59:08.965] [Server thread/INFO] [WolfyUtilities/]: Loading Plugin integrations: 
-[28Jan2025 01:59:08.993] [Server thread/INFO] [WolfyUtilities/]:  - PlaceholderAPI
-[28Jan2025 01:59:08.995] [Server thread/INFO] [WolfyUtilities/]: Create & Init Plugin integrations: 
-[28Jan2025 01:59:08.999] [Server thread/INFO] [WolfyUtilities/]: Register API references
-[28Jan2025 01:59:09.560] [Server thread/INFO] [WolfyUtilities/]: Loading stored Custom Items
-[28Jan2025 01:59:09.621] [Server thread/INFO] [WolfyUtilities/]: Loading Creative Mode Tabs
-[28Jan2025 01:59:09.940] [Server thread/INFO] [FTB Teams/]: loaded team data: 1 known players, 1 teams total
-[28Jan2025 01:59:10.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[28Jan2025 01:59:10.153] [Server thread/INFO] [Arclight/]: 注册了 2 个新的世界类型
-[28Jan2025 01:59:10.568] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
-[28Jan2025 01:59:10.581] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[28Jan2025 01:59:10.582] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
-[28Jan2025 01:59:10.582] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
-[28Jan2025 01:59:10.583] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[28Jan2025 01:59:10.584] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
-[28Jan2025 01:59:10.586] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
-[28Jan2025 01:59:10.588] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
-[28Jan2025 01:59:10.588] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
-[28Jan2025 01:59:10.588] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
-[28Jan2025 01:59:10.589] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
-[28Jan2025 01:59:10.590] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
-[28Jan2025 01:59:10.590] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
-[28Jan2025 01:59:10.590] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
-[28Jan2025 01:59:10.590] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
-[28Jan2025 01:59:10.590] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
-[28Jan2025 01:59:10.591] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
-[28Jan2025 01:59:10.591] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
-[28Jan2025 01:59:10.591] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
-[28Jan2025 01:59:10.592] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
-[28Jan2025 01:59:10.592] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
-[28Jan2025 01:59:10.592] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
-[28Jan2025 01:59:10.593] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
-[28Jan2025 01:59:10.602] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[28Jan2025 01:59:10.602] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[28Jan2025 01:59:10.603] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[28Jan2025 01:59:10.609] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
-[28Jan2025 01:59:10.610] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[28Jan2025 01:59:10.610] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
-[28Jan2025 01:59:10.610] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
-[28Jan2025 01:59:10.610] [Server thread/INFO] [Minecraft/]: View Distance: 10
-[28Jan2025 01:59:10.611] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
-[28Jan2025 01:59:10.611] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
-[28Jan2025 01:59:12.657] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/dragon_bossfight/dreamland] --------
-[28Jan2025 01:59:12.657] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[28Jan2025 01:59:12.657] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
-[28Jan2025 01:59:12.657] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
-[28Jan2025 01:59:12.664] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[28Jan2025 01:59:12.664] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
-[28Jan2025 01:59:12.665] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
-[28Jan2025 01:59:12.665] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
-[28Jan2025 01:59:12.665] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
-[28Jan2025 01:59:12.665] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
-[28Jan2025 01:59:12.665] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
-[28Jan2025 01:59:12.665] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
-[28Jan2025 01:59:12.665] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
-[28Jan2025 01:59:12.665] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
-[28Jan2025 01:59:12.665] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
-[28Jan2025 01:59:12.665] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
-[28Jan2025 01:59:12.665] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
-[28Jan2025 01:59:12.665] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
-[28Jan2025 01:59:12.665] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
-[28Jan2025 01:59:12.665] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
-[28Jan2025 01:59:12.665] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
-[28Jan2025 01:59:12.665] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
-[28Jan2025 01:59:12.665] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
-[28Jan2025 01:59:12.665] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[28Jan2025 01:59:12.665] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[28Jan2025 01:59:12.665] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[28Jan2025 01:59:12.665] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
-[28Jan2025 01:59:12.665] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[28Jan2025 01:59:12.665] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
-[28Jan2025 01:59:12.665] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
-[28Jan2025 01:59:12.665] [Server thread/INFO] [Minecraft/]: View Distance: 10
-[28Jan2025 01:59:12.665] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
-[28Jan2025 01:59:12.665] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
-[28Jan2025 01:59:12.712] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/DIM1] --------
-[28Jan2025 01:59:12.712] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[28Jan2025 01:59:12.712] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
-[28Jan2025 01:59:12.713] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
-[28Jan2025 01:59:12.713] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[28Jan2025 01:59:12.713] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
-[28Jan2025 01:59:12.713] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
-[28Jan2025 01:59:12.713] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
-[28Jan2025 01:59:12.713] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
-[28Jan2025 01:59:12.713] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
-[28Jan2025 01:59:12.713] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
-[28Jan2025 01:59:12.713] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
-[28Jan2025 01:59:12.713] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
-[28Jan2025 01:59:12.713] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
-[28Jan2025 01:59:12.713] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
-[28Jan2025 01:59:12.713] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
-[28Jan2025 01:59:12.713] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
-[28Jan2025 01:59:12.713] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
-[28Jan2025 01:59:12.713] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
-[28Jan2025 01:59:12.713] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
-[28Jan2025 01:59:12.713] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
-[28Jan2025 01:59:12.713] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
-[28Jan2025 01:59:12.713] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
-[28Jan2025 01:59:12.713] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[28Jan2025 01:59:12.713] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[28Jan2025 01:59:12.713] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[28Jan2025 01:59:12.713] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
-[28Jan2025 01:59:12.713] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[28Jan2025 01:59:12.713] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
-[28Jan2025 01:59:12.713] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
-[28Jan2025 01:59:12.713] [Server thread/INFO] [Minecraft/]: View Distance: 10
-[28Jan2025 01:59:12.713] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
-[28Jan2025 01:59:12.713] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
-[28Jan2025 01:59:20.136] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/DIM-1] --------
-[28Jan2025 01:59:20.136] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[28Jan2025 01:59:20.136] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
-[28Jan2025 01:59:20.136] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
-[28Jan2025 01:59:20.137] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[28Jan2025 01:59:20.138] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
-[28Jan2025 01:59:20.138] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
-[28Jan2025 01:59:20.138] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
-[28Jan2025 01:59:20.138] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
-[28Jan2025 01:59:20.138] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
-[28Jan2025 01:59:20.138] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
-[28Jan2025 01:59:20.138] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
-[28Jan2025 01:59:20.138] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
-[28Jan2025 01:59:20.138] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
-[28Jan2025 01:59:20.138] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
-[28Jan2025 01:59:20.138] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
-[28Jan2025 01:59:20.138] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
-[28Jan2025 01:59:20.138] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
-[28Jan2025 01:59:20.138] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
-[28Jan2025 01:59:20.138] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
-[28Jan2025 01:59:20.138] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
-[28Jan2025 01:59:20.138] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
-[28Jan2025 01:59:20.138] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
-[28Jan2025 01:59:20.139] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[28Jan2025 01:59:20.139] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[28Jan2025 01:59:20.141] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[28Jan2025 01:59:20.141] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
-[28Jan2025 01:59:20.141] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[28Jan2025 01:59:20.141] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
-[28Jan2025 01:59:20.141] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
-[28Jan2025 01:59:20.142] [Server thread/INFO] [Minecraft/]: View Distance: 10
-[28Jan2025 01:59:20.142] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
-[28Jan2025 01:59:20.142] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
-[28Jan2025 01:59:20.206] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/tilingodxmc_mod/dream] --------
-[28Jan2025 01:59:20.206] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[28Jan2025 01:59:20.207] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
-[28Jan2025 01:59:20.207] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
-[28Jan2025 01:59:20.207] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[28Jan2025 01:59:20.207] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
-[28Jan2025 01:59:20.207] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
-[28Jan2025 01:59:20.207] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
-[28Jan2025 01:59:20.207] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
-[28Jan2025 01:59:20.207] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
-[28Jan2025 01:59:20.207] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
-[28Jan2025 01:59:20.207] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
-[28Jan2025 01:59:20.207] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
-[28Jan2025 01:59:20.207] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
-[28Jan2025 01:59:20.208] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
-[28Jan2025 01:59:20.208] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
-[28Jan2025 01:59:20.208] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
-[28Jan2025 01:59:20.208] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
-[28Jan2025 01:59:20.208] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
-[28Jan2025 01:59:20.208] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
-[28Jan2025 01:59:20.208] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
-[28Jan2025 01:59:20.208] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
-[28Jan2025 01:59:20.208] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
-[28Jan2025 01:59:20.208] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[28Jan2025 01:59:20.208] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[28Jan2025 01:59:20.210] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[28Jan2025 01:59:20.211] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
-[28Jan2025 01:59:20.211] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[28Jan2025 01:59:20.211] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
-[28Jan2025 01:59:20.211] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
-[28Jan2025 01:59:20.211] [Server thread/INFO] [Minecraft/]: View Distance: 10
-[28Jan2025 01:59:20.211] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
-[28Jan2025 01:59:20.211] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
-[28Jan2025 01:59:20.253] [Server thread/INFO] [LoginSecurity/]: Enabling LoginSecurity v3.3.0
-[28Jan2025 01:59:20.333] [Server thread/INFO] [LoginSecurity/]: Loading base translations from "en_us"
-[28Jan2025 01:59:20.337] [Server thread/INFO] [LoginSecurity/]: Loading specified translations from "en_us"
-[28Jan2025 01:59:20.689] [Server thread/INFO] [LoginSecurity/]: Registering commands...
-[28Jan2025 01:59:20.714] [Server thread/INFO] [LoginSecurity/]: Registering listeners...
-[28Jan2025 01:59:20.783] [Server thread/INFO] [LoginSecurity/]: Using 1.12+ map captcha renderer
-[28Jan2025 01:59:20.786] [Server thread/INFO] [PlaceholderAPI/]: Enabling PlaceholderAPI v2.11.6
-[28Jan2025 01:59:21.812] [Server thread/INFO] [PlaceholderAPI/]: Fetching available expansion information...
-[28Jan2025 01:59:21.828] [Server thread/INFO] [WolfyUtilities/]: init PAPI event
-[28Jan2025 01:59:21.832] [Server thread/INFO] [WolfyUtilities/]: Enabled plugin integration for PlaceholderAPI
-[28Jan2025 01:59:21.834] [Server thread/INFO] [WorldGuard/]: Enabling WorldGuard v7.0.7+216b061
-[28Jan2025 01:59:22.302] [Server thread/WARN] [WorldGuard/]: Loaded class javax.annotation.Nullable from DiscordSRV v1.28.0 which is not a depend or softdepend of this plugin.
-[28Jan2025 01:59:22.478] [Server thread/INFO] [ItemEditor/]: Enabling ItemEditor v2.0.3
-[28Jan2025 01:59:22.505] [Server thread/INFO] [ItemEditor/]: Detected minecraft 1.18.2
-[28Jan2025 01:59:22.508] [Server thread/INFO] [ItemEditor/]: Reloading items.
-[28Jan2025 01:59:24.466] [Server thread/INFO] [ItemEditor/]: Loaded 1 items from storage.
-[28Jan2025 01:59:24.466] [Server thread/INFO] [ItemEditor/]: Enabled PlaceholderAPI support.
-[28Jan2025 01:59:24.503] [Server thread/INFO] [DiscordSRV/]: Enabling DiscordSRV v1.28.0
-[28Jan2025 01:59:24.527] [Server thread/INFO] [CustomCrafting/]: Enabling CustomCrafting v4.16.9.1
-[28Jan2025 01:59:24.898] [Server thread/INFO] [CustomCrafting/]: Loaded fallback language "en_US" v6.1.0 translated by WolfyScript
-[28Jan2025 01:59:25.102] [Server thread/INFO] [CustomCrafting/]: Loaded active language "en_US" v6.1.0 translated by WolfyScript
-[28Jan2025 01:59:25.510] [Server thread/INFO] [CustomCrafting/]: ____ _  _ ____ ___ ____ _  _ ____ ____ ____ ____ ___ _ _  _ ____ 
-[28Jan2025 01:59:25.511] [Server thread/INFO] [CustomCrafting/]: |    |  | [__   |  |  | |\/| |    |__/ |__| |___  |  | |\ | | __ 
-[28Jan2025 01:59:25.511] [Server thread/INFO] [CustomCrafting/]: |___ |__| ___]  |  |__| |  | |___ |  \ |  | |     |  | | \| |__]
-[28Jan2025 01:59:25.511] [Server thread/INFO] [CustomCrafting/]:     Version      | v4.16.9.1
-[28Jan2025 01:59:25.511] [Server thread/INFO] [CustomCrafting/]:     WolfyUtils   | v4.17-beta.1
-[28Jan2025 01:59:25.511] [Server thread/INFO] [CustomCrafting/]:     Bukkit       | arclight-1.18.2-1.0.12-fded76e (MC: 1.18.2)(API: 1.18.2-R0.1-SNAPSHOT)
-[28Jan2025 01:59:25.540] [Server thread/INFO] [NBTAPI/]: [NBTAPI] Found Minecraft: v1_18_R2! Trying to find NMS support
-[28Jan2025 01:59:25.541] [Server thread/INFO] [NBTAPI/]: [NBTAPI] NMS support 'MC1_18_R2' loaded!
-[28Jan2025 01:59:25.544] [Server thread/INFO] [NBTAPI/]: [NBTAPI] Using the plugin 'WolfyUtilities' to create a bStats instance!
-[28Jan2025 01:59:25.939] [Server thread/INFO] [CustomCrafting/]: 
-[28Jan2025 01:59:25.939] [Server thread/INFO] [CustomCrafting/]: Special thanks to my Patrons for supporting this project: 
-[28Jan2025 01:59:25.939] [Server thread/INFO] [CustomCrafting/]: Omarlatif, Nat R, Obsidian_Sword, LiveJunye, Mithran, Teddy
-[28Jan2025 01:59:25.939] [Server thread/INFO] [CustomCrafting/]: Invictus_Vulpes , Luuk Musch, fioxu, JorshStark, Perny Dev, Charlie
-[28Jan2025 01:59:25.939] [Server thread/INFO] [CustomCrafting/]: iachen, whja t, Green Masks, lance fector, Jack Snellings, MineHouse Server
-[28Jan2025 01:59:25.939] [Server thread/INFO] [CustomCrafting/]: ------------------------------------------------------------------------
-[28Jan2025 01:59:25.940] [Server thread/INFO] [CustomCrafting/]: Registering PlaceHolder
-[28Jan2025 01:59:25.942] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered internal expansion: customcrafting [4.16.9.1]
-[28Jan2025 01:59:25.944] [Server thread/INFO] [CustomCrafting/]: Data destination: LOCAL
-[28Jan2025 01:59:26.171] [Server thread/INFO] [CustomCrafting/]: Initiating Inventory GUIs
-[28Jan2025 01:59:26.174] [Server thread/INFO] [CustomCrafting/]: Register ItemCreator Tabs
-[28Jan2025 01:59:26.243] [pool-44-thread-1/WARN] [DiscordSRV/]: 
+[28Jan2025 21:56:40.580] [Worker-Main-5/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1166 advancements
+[28Jan2025 21:56:43.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
+[28Jan2025 21:56:43.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[28Jan2025 21:56:43.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[28Jan2025 21:56:43.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[28Jan2025 21:56:43.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[28Jan2025 21:56:43.776] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[28Jan2025 21:56:44.037] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[28Jan2025 21:56:44.037] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[28Jan2025 21:56:44.037] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[28Jan2025 21:56:44.037] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[28Jan2025 21:56:45.412] [Server thread/INFO] [Minecraft/]: This server is running Arclight version arclight-1.18.2-1.0.12-fded76e (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT)
+[28Jan2025 21:56:45.567] [Server thread/INFO] [Arclight/]: 正在向 Bukkit 注册 ...
+[28Jan2025 21:56:47.925] [Server thread/INFO] [Arclight/]: 注册了 898 个材料，其中 587 个方块 311 个物品
+[28Jan2025 21:56:47.932] [Server thread/INFO] [Arclight/]: 注册了 14 个新的药水效果
+[28Jan2025 21:56:47.952] [Server thread/INFO] [Arclight/]: 注册了 46 个新的附魔
+[28Jan2025 21:56:47.980] [Server thread/INFO] [Arclight/]: 注册了 105 个新的生物类型
+[28Jan2025 21:56:47.981] [Server thread/INFO] [Arclight/]: 注册了 0 个新的村民职业
+[28Jan2025 21:56:47.983] [Server thread/INFO] [Arclight/]: 注册了 2 个新的生物群系
+[28Jan2025 21:56:48.042] [Server thread/INFO] [STDOUT/]: Server Ping Player Sample Count: 12
+[28Jan2025 21:56:48.048] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[28Jan2025 21:56:48.050] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
+[28Jan2025 21:56:48.390] [Server thread/INFO] [Arclight/]: 正在加载混淆数据 ...
+[28Jan2025 21:56:49.336] [Server thread/INFO] [Arclight/]: 正在加载 Plugin Patcher ...
+[28Jan2025 21:56:51.732] [Server thread/INFO] [Minecraft/]: [WolfyUtilities] Loading 3 libraries... please wait
+[28Jan2025 21:56:52.139] [Server thread/INFO] [Minecraft/]: [WolfyUtilities] Loaded library /workspaces/WaV2/servidor_minecraft/libraries/com/google/inject/guice/5.1.0/guice-5.1.0.jar
+[28Jan2025 21:56:52.143] [Server thread/INFO] [Minecraft/]: [WolfyUtilities] Loaded library /workspaces/WaV2/servidor_minecraft/libraries/javax/inject/javax.inject/1/javax.inject-1.jar
+[28Jan2025 21:56:52.145] [Server thread/INFO] [Minecraft/]: [WolfyUtilities] Loaded library /workspaces/WaV2/servidor_minecraft/libraries/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
+[28Jan2025 21:56:52.146] [Server thread/INFO] [Minecraft/]: [WolfyUtilities] Loaded library /workspaces/WaV2/servidor_minecraft/libraries/com/google/guava/guava/30.1-jre/guava-30.1-jre.jar
+[28Jan2025 21:56:52.147] [Server thread/INFO] [Minecraft/]: [WolfyUtilities] Loaded library /workspaces/WaV2/servidor_minecraft/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar
+[28Jan2025 21:56:52.147] [Server thread/INFO] [Minecraft/]: [WolfyUtilities] Loaded library /workspaces/WaV2/servidor_minecraft/libraries/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
+[28Jan2025 21:56:52.147] [Server thread/INFO] [Minecraft/]: [WolfyUtilities] Loaded library /workspaces/WaV2/servidor_minecraft/libraries/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar
+[28Jan2025 21:56:52.147] [Server thread/INFO] [Minecraft/]: [WolfyUtilities] Loaded library /workspaces/WaV2/servidor_minecraft/libraries/org/checkerframework/checker-qual/3.5.0/checker-qual-3.5.0.jar
+[28Jan2025 21:56:52.147] [Server thread/INFO] [Minecraft/]: [WolfyUtilities] Loaded library /workspaces/WaV2/servidor_minecraft/libraries/com/google/errorprone/error_prone_annotations/2.3.4/error_prone_annotations-2.3.4.jar
+[28Jan2025 21:56:52.147] [Server thread/INFO] [Minecraft/]: [WolfyUtilities] Loaded library /workspaces/WaV2/servidor_minecraft/libraries/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar
+[28Jan2025 21:56:52.147] [Server thread/INFO] [Minecraft/]: [WolfyUtilities] Loaded library /workspaces/WaV2/servidor_minecraft/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar
+[28Jan2025 21:56:52.147] [Server thread/INFO] [Minecraft/]: [WolfyUtilities] Loaded library /workspaces/WaV2/servidor_minecraft/libraries/it/unimi/dsi/fastutil/8.5.6/fastutil-8.5.6.jar
+[28Jan2025 21:56:53.626] [Server thread/INFO] [WolfyUtilities/]: NMS Version: v1_18_R2
+[28Jan2025 21:56:54.767] [Server thread/INFO] [me.wolfyscript.lib.org.reflections.Reflections/]: Reflections took 1003 ms to scan 1 urls, producing 913 keys and 3659 values
+[28Jan2025 21:56:55.360] [Server thread/INFO] [WolfyUtilities/]: Register Default StackIdentifiers
+[28Jan2025 21:56:55.478] [Server thread/WARN] [CustomCrafting/]: Paper not detected! Not using performance improvements.
+[28Jan2025 21:56:55.480] [Server thread/INFO] [CustomCrafting/]: NMS Version: v1_18_R2
+[28Jan2025 21:56:55.855] [Server thread/INFO] [WorldEdit/]: Loading WorldEdit v7.2.10+1742f98
+[28Jan2025 21:56:57.104] [Server thread/WARN] [WorldEdit/]: Loaded class javax.annotation.Nullable from DiscordSRV v1.28.0 which is not a depend or softdepend of this plugin.
+[28Jan2025 21:56:57.182] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@5991808]
+[28Jan2025 21:56:57.188] [Server thread/INFO] [LoginSecurity/]: Loading LoginSecurity v3.3.0
+[28Jan2025 21:56:57.191] [Server thread/INFO] [PlaceholderAPI/]: Loading PlaceholderAPI v2.11.6
+[28Jan2025 21:56:57.192] [Server thread/INFO] [WorldGuard/]: Loading WorldGuard v7.0.7+216b061
+[28Jan2025 21:56:57.195] [Server thread/INFO] [ItemEditor/]: Loading ItemEditor v2.0.3
+[28Jan2025 21:56:57.196] [Server thread/INFO] [DiscordSRV/]: Loading DiscordSRV v1.28.0
+[28Jan2025 21:56:57.197] [Server thread/INFO] [WolfyUtilities/]: Loading WolfyUtilities v4.17-beta.1
+[28Jan2025 21:56:57.199] [Server thread/INFO] [WolfyUtilities/]: Generate Functional Recipes
+[28Jan2025 21:56:59.502] [Server thread/INFO] [WolfyUtilities/]: Register JSON de-/serializers
+[28Jan2025 21:56:59.534] [Server thread/INFO] [WolfyUtilities/]: Register JSON Operators
+[28Jan2025 21:56:59.542] [Server thread/INFO] [WolfyUtilities/]: Register JSON Value Providers
+[28Jan2025 21:56:59.561] [Server thread/INFO] [WolfyUtilities/]: Register CustomItem NBT Checks
+[28Jan2025 21:56:59.568] [Server thread/INFO] [WolfyUtilities/]: Register CustomItem Actions
+[28Jan2025 21:56:59.571] [Server thread/INFO] [WolfyUtilities/]: Register CustomItem Events
+[28Jan2025 21:56:59.581] [Server thread/INFO] [WolfyUtilities/]: Register Particle Animators
+[28Jan2025 21:56:59.583] [Server thread/INFO] [WolfyUtilities/]: Register Particle Shapes
+[28Jan2025 21:56:59.589] [Server thread/INFO] [WolfyUtilities/]: Register Particle Timers
+[28Jan2025 21:56:59.591] [Server thread/INFO] [WolfyUtilities/]: Register Custom Block Data
+[28Jan2025 21:56:59.593] [Server thread/INFO] [WolfyUtilities/]: Register Custom Player Data
+[28Jan2025 21:56:59.613] [Server thread/INFO] [WolfyUtilities/]: Register NBT Query Nodes
+[28Jan2025 21:56:59.648] [Server thread/INFO] [CustomCrafting/]: Loading CustomCrafting v4.16.9.1
+[28Jan2025 21:56:59.648] [Server thread/INFO] [CustomCrafting/]: WolfyUtils API: v4.17-beta.1
+[28Jan2025 21:56:59.648] [Server thread/INFO] [CustomCrafting/]: CustomCrafting: v4.16.9.1
+[28Jan2025 21:56:59.649] [Server thread/INFO] [CustomCrafting/]: Environment   : PROD
+[28Jan2025 21:56:59.650] [Server thread/INFO] [CustomCrafting/]: Registering CustomItem Data
+[28Jan2025 21:56:59.660] [Server thread/INFO] [CustomCrafting/]: Registering Custom Block Data
+[28Jan2025 21:56:59.662] [Server thread/INFO] [CustomCrafting/]: Registering Result Extensions
+[28Jan2025 21:56:59.682] [Server thread/INFO] [CustomCrafting/]: Registering Result Merge Adapters
+[28Jan2025 21:56:59.723] [Server thread/INFO] [CustomCrafting/]: Registering Recipe Conditions
+[28Jan2025 21:56:59.789] [Server thread/INFO] [CustomCrafting/]: Registering Recipe Types
+[28Jan2025 21:56:59.792] [Server thread/INFO] [CustomCrafting/]: Registering Anvil Recipe Tasks
+[28Jan2025 21:56:59.807] [Server thread/INFO] [CustomCrafting/]: Registering Type Registries
+[28Jan2025 21:56:59.808] [Server thread/INFO] [ConditionalEvents/]: Loading ConditionalEvents v4.59.1
+[28Jan2025 21:56:59.813] [Server thread/INFO] [WorldEdit/]: Enabling WorldEdit v7.2.10+1742f98
+[28Jan2025 21:57:00.004] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[28Jan2025 21:57:00.158] [Server thread/INFO] [com.sk89q.wepif.PermissionsResolverManager/]: WEPIF: Using the Bukkit Permissions API.
+[28Jan2025 21:57:00.649] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_18_R2.PaperweightAdapter as the Bukkit adapter
+[28Jan2025 21:57:03.075] [Server thread/INFO] [WorldEdit/]: ====================================================
+[28Jan2025 21:57:03.075] [Server thread/INFO] [WorldEdit/]:  WorldEdit works better if you use Paper 
+[28Jan2025 21:57:03.075] [Server thread/INFO] [WorldEdit/]:  as your server software. 
+[28Jan2025 21:57:03.076] [Server thread/INFO] [WorldEdit/]:   
+[28Jan2025 21:57:03.076] [Server thread/INFO] [WorldEdit/]:  Paper offers significant performance improvements,
+[28Jan2025 21:57:03.076] [Server thread/INFO] [WorldEdit/]:  bug fixes, security enhancements and optional
+[28Jan2025 21:57:03.076] [Server thread/INFO] [WorldEdit/]:  features for server owners to enhance their server.
+[28Jan2025 21:57:03.076] [Server thread/INFO] [WorldEdit/]:   
+[28Jan2025 21:57:03.076] [Server thread/INFO] [WorldEdit/]:  Paper includes Timings v2, which is significantly
+[28Jan2025 21:57:03.076] [Server thread/INFO] [WorldEdit/]:  better at diagnosing lag problems over v1.
+[28Jan2025 21:57:03.076] [Server thread/INFO] [WorldEdit/]:   
+[28Jan2025 21:57:03.076] [Server thread/INFO] [WorldEdit/]:  All of your plugins should still work, and the
+[28Jan2025 21:57:03.076] [Server thread/INFO] [WorldEdit/]:  Paper community will gladly help you fix any issues.
+[28Jan2025 21:57:03.076] [Server thread/INFO] [WorldEdit/]:   
+[28Jan2025 21:57:03.076] [Server thread/INFO] [WorldEdit/]:  Join the Paper Community @ https://papermc.io
+[28Jan2025 21:57:03.076] [Server thread/INFO] [WorldEdit/]: ====================================================
+[28Jan2025 21:57:03.077] [Server thread/INFO] [WolfyUtilities/]: Enabling WolfyUtilities v4.17-beta.1
+[28Jan2025 21:57:03.082] [Server thread/INFO] [WolfyUtilities/]: Minecraft version: 1.18.2
+[28Jan2025 21:57:03.082] [Server thread/INFO] [WolfyUtilities/]: WolfyUtils version: 4.17.0.0
+[28Jan2025 21:57:03.082] [Server thread/INFO] [WolfyUtilities/]: Environment: PROD
+[28Jan2025 21:57:03.103] [Server thread/INFO] [WolfyUtilities/]: Loading Plugin integrations: 
+[28Jan2025 21:57:03.127] [Server thread/INFO] [WolfyUtilities/]:  - PlaceholderAPI
+[28Jan2025 21:57:03.128] [Server thread/INFO] [WolfyUtilities/]: Create & Init Plugin integrations: 
+[28Jan2025 21:57:03.130] [Server thread/INFO] [WolfyUtilities/]: Register API references
+[28Jan2025 21:57:03.416] [Server thread/INFO] [WolfyUtilities/]: Loading stored Custom Items
+[28Jan2025 21:57:03.505] [Server thread/INFO] [WolfyUtilities/]: Loading Creative Mode Tabs
+[28Jan2025 21:57:03.808] [Server thread/INFO] [FTB Teams/]: loaded team data: 5 known players, 5 teams total
+[28Jan2025 21:57:04.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[28Jan2025 21:57:04.118] [Server thread/INFO] [Arclight/]: 注册了 2 个新的世界类型
+[28Jan2025 21:57:04.599] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[28Jan2025 21:57:04.605] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[28Jan2025 21:57:04.606] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[28Jan2025 21:57:04.606] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[28Jan2025 21:57:04.606] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[28Jan2025 21:57:04.606] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[28Jan2025 21:57:04.606] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[28Jan2025 21:57:04.607] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[28Jan2025 21:57:04.607] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[28Jan2025 21:57:04.607] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[28Jan2025 21:57:04.607] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[28Jan2025 21:57:04.607] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[28Jan2025 21:57:04.607] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[28Jan2025 21:57:04.607] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[28Jan2025 21:57:04.607] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[28Jan2025 21:57:04.607] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[28Jan2025 21:57:04.607] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[28Jan2025 21:57:04.607] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[28Jan2025 21:57:04.607] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[28Jan2025 21:57:04.608] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[28Jan2025 21:57:04.608] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[28Jan2025 21:57:04.608] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[28Jan2025 21:57:04.609] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[28Jan2025 21:57:04.609] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[28Jan2025 21:57:04.609] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[28Jan2025 21:57:04.609] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[28Jan2025 21:57:04.609] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[28Jan2025 21:57:04.609] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[28Jan2025 21:57:04.609] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[28Jan2025 21:57:04.609] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[28Jan2025 21:57:04.609] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[28Jan2025 21:57:04.609] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[28Jan2025 21:57:04.609] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[28Jan2025 21:57:07.046] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/DIM-1] --------
+[28Jan2025 21:57:07.047] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[28Jan2025 21:57:07.048] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[28Jan2025 21:57:07.048] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[28Jan2025 21:57:07.049] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[28Jan2025 21:57:07.052] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[28Jan2025 21:57:07.052] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[28Jan2025 21:57:07.053] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[28Jan2025 21:57:07.053] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[28Jan2025 21:57:07.054] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[28Jan2025 21:57:07.054] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[28Jan2025 21:57:07.055] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[28Jan2025 21:57:07.055] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[28Jan2025 21:57:07.055] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[28Jan2025 21:57:07.056] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[28Jan2025 21:57:07.057] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[28Jan2025 21:57:07.057] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[28Jan2025 21:57:07.057] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[28Jan2025 21:57:07.058] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[28Jan2025 21:57:07.058] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[28Jan2025 21:57:07.058] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[28Jan2025 21:57:07.059] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[28Jan2025 21:57:07.059] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[28Jan2025 21:57:07.060] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[28Jan2025 21:57:07.060] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[28Jan2025 21:57:07.061] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[28Jan2025 21:57:07.065] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[28Jan2025 21:57:07.065] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[28Jan2025 21:57:07.066] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[28Jan2025 21:57:07.066] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[28Jan2025 21:57:07.067] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[28Jan2025 21:57:07.067] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[28Jan2025 21:57:07.068] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[28Jan2025 21:57:07.141] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/DIM1] --------
+[28Jan2025 21:57:07.146] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[28Jan2025 21:57:07.146] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[28Jan2025 21:57:07.147] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[28Jan2025 21:57:07.147] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[28Jan2025 21:57:07.147] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[28Jan2025 21:57:07.148] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[28Jan2025 21:57:07.148] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[28Jan2025 21:57:07.150] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[28Jan2025 21:57:07.151] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[28Jan2025 21:57:07.151] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[28Jan2025 21:57:07.152] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[28Jan2025 21:57:07.152] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[28Jan2025 21:57:07.153] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[28Jan2025 21:57:07.153] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[28Jan2025 21:57:07.153] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[28Jan2025 21:57:07.154] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[28Jan2025 21:57:07.154] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[28Jan2025 21:57:07.155] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[28Jan2025 21:57:07.155] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[28Jan2025 21:57:07.155] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[28Jan2025 21:57:07.156] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[28Jan2025 21:57:07.156] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[28Jan2025 21:57:07.157] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[28Jan2025 21:57:07.158] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[28Jan2025 21:57:07.158] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[28Jan2025 21:57:07.158] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[28Jan2025 21:57:07.161] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[28Jan2025 21:57:07.161] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[28Jan2025 21:57:07.161] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[28Jan2025 21:57:07.162] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[28Jan2025 21:57:07.162] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[28Jan2025 21:57:07.163] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[28Jan2025 21:57:07.198] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/tilingodxmc_mod/dream] --------
+[28Jan2025 21:57:07.198] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[28Jan2025 21:57:07.198] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[28Jan2025 21:57:07.199] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[28Jan2025 21:57:07.199] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[28Jan2025 21:57:07.199] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[28Jan2025 21:57:07.199] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[28Jan2025 21:57:07.199] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[28Jan2025 21:57:07.199] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[28Jan2025 21:57:07.199] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[28Jan2025 21:57:07.199] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[28Jan2025 21:57:07.199] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[28Jan2025 21:57:07.199] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[28Jan2025 21:57:07.199] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[28Jan2025 21:57:07.199] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[28Jan2025 21:57:07.199] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[28Jan2025 21:57:07.199] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[28Jan2025 21:57:07.199] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[28Jan2025 21:57:07.199] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[28Jan2025 21:57:07.199] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[28Jan2025 21:57:07.199] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[28Jan2025 21:57:07.199] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[28Jan2025 21:57:07.199] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[28Jan2025 21:57:07.199] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[28Jan2025 21:57:07.199] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[28Jan2025 21:57:07.199] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[28Jan2025 21:57:07.199] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[28Jan2025 21:57:07.199] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[28Jan2025 21:57:07.199] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[28Jan2025 21:57:07.199] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[28Jan2025 21:57:07.199] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[28Jan2025 21:57:07.199] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[28Jan2025 21:57:07.199] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[28Jan2025 21:57:07.211] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/dragon_bossfight/dreamland] --------
+[28Jan2025 21:57:07.211] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[28Jan2025 21:57:07.211] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[28Jan2025 21:57:07.211] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[28Jan2025 21:57:07.211] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[28Jan2025 21:57:07.211] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[28Jan2025 21:57:07.211] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[28Jan2025 21:57:07.211] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[28Jan2025 21:57:07.211] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[28Jan2025 21:57:07.211] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[28Jan2025 21:57:07.211] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[28Jan2025 21:57:07.211] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[28Jan2025 21:57:07.211] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[28Jan2025 21:57:07.211] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[28Jan2025 21:57:07.211] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[28Jan2025 21:57:07.211] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[28Jan2025 21:57:07.211] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[28Jan2025 21:57:07.211] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[28Jan2025 21:57:07.211] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[28Jan2025 21:57:07.211] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[28Jan2025 21:57:07.212] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[28Jan2025 21:57:07.212] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[28Jan2025 21:57:07.212] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[28Jan2025 21:57:07.215] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[28Jan2025 21:57:07.215] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[28Jan2025 21:57:07.215] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[28Jan2025 21:57:07.215] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[28Jan2025 21:57:07.215] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[28Jan2025 21:57:07.215] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[28Jan2025 21:57:07.215] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[28Jan2025 21:57:07.215] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[28Jan2025 21:57:07.215] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[28Jan2025 21:57:07.215] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[28Jan2025 21:57:07.237] [Server thread/INFO] [LoginSecurity/]: Enabling LoginSecurity v3.3.0
+[28Jan2025 21:57:07.271] [Server thread/INFO] [LoginSecurity/]: Loading base translations from "en_us"
+[28Jan2025 21:57:07.277] [Server thread/INFO] [LoginSecurity/]: Loading specified translations from "en_us"
+[28Jan2025 21:57:07.767] [Server thread/INFO] [LoginSecurity/]: Registering commands...
+[28Jan2025 21:57:07.778] [Server thread/INFO] [LoginSecurity/]: Registering listeners...
+[28Jan2025 21:57:07.848] [Server thread/INFO] [LoginSecurity/]: Using 1.12+ map captcha renderer
+[28Jan2025 21:57:07.850] [Server thread/INFO] [PlaceholderAPI/]: Enabling PlaceholderAPI v2.11.6
+[28Jan2025 21:57:08.823] [Server thread/INFO] [PlaceholderAPI/]: Fetching available expansion information...
+[28Jan2025 21:57:08.825] [Server thread/INFO] [WolfyUtilities/]: init PAPI event
+[28Jan2025 21:57:08.828] [Server thread/INFO] [WolfyUtilities/]: Enabled plugin integration for PlaceholderAPI
+[28Jan2025 21:57:08.831] [Server thread/INFO] [WorldGuard/]: Enabling WorldGuard v7.0.7+216b061
+[28Jan2025 21:57:09.304] [Server thread/WARN] [WorldGuard/]: Loaded class javax.annotation.Nullable from DiscordSRV v1.28.0 which is not a depend or softdepend of this plugin.
+[28Jan2025 21:57:09.917] [Server thread/INFO] [ItemEditor/]: Enabling ItemEditor v2.0.3
+[28Jan2025 21:57:09.923] [Server thread/INFO] [ItemEditor/]: Detected minecraft 1.18.2
+[28Jan2025 21:57:09.929] [Server thread/INFO] [ItemEditor/]: Reloading items.
+[28Jan2025 21:57:11.878] [Server thread/INFO] [ItemEditor/]: Loaded 1 items from storage.
+[28Jan2025 21:57:11.879] [Server thread/INFO] [ItemEditor/]: Enabled PlaceholderAPI support.
+[28Jan2025 21:57:11.910] [Server thread/INFO] [DiscordSRV/]: Enabling DiscordSRV v1.28.0
+[28Jan2025 21:57:11.985] [Server thread/INFO] [CustomCrafting/]: Enabling CustomCrafting v4.16.9.1
+[28Jan2025 21:57:12.519] [Server thread/INFO] [CustomCrafting/]: Loaded fallback language "en_US" v6.1.0 translated by WolfyScript
+[28Jan2025 21:57:12.850] [Server thread/INFO] [CustomCrafting/]: Loaded active language "en_US" v6.1.0 translated by WolfyScript
+[28Jan2025 21:57:13.080] [pool-44-thread-1/WARN] [DiscordSRV/]: 
 
 The current build of DiscordSRV is outdated by 29 commits! Get the latest build at your favorite distribution center.
 
@@ -2321,218 +2301,163 @@ Spigot: https://www.spigotmc.org/resources/discordsrv.18494/
 Github: https://github.com/DiscordSRV/DiscordSRV/releases
 Direct Download: https://get.discordsrv.com
 
-[28Jan2025 01:59:26.786] [DiscordSRV - Initialization/INFO] [DiscordSRV/]: [JDA] Login Successful!
-[28Jan2025 01:59:27.243] [JDA MainWS-ReadThread/INFO] [DiscordSRV/]: [JDA] Connected to WebSocket
-[28Jan2025 01:59:28.235] [JDA MainWS-ReadThread/INFO] [DiscordSRV/]: [JDA] Finished Loading!
-[28Jan2025 01:59:28.329] [DiscordSRV - Initialization/INFO] [DiscordSRV/]: El ID del canal de la consola no es válido, no se enviará ningún mensaje de la consola
-[28Jan2025 01:59:28.470] [DiscordSRV - Initialization/INFO] [DiscordSRV/]: Activando complementos de PlaceholderAPI
-[28Jan2025 01:59:29.544] [Server thread/INFO] [CustomCrafting/]: Loading Recipes & Items
-[28Jan2025 01:59:29.544] [Server thread/INFO] [CustomCrafting/]: - - - - [Local Storage] - - - -
-[28Jan2025 01:59:29.545] [Server thread/INFO] [CustomCrafting/]: [LOCAL] Using 4 threads
-[28Jan2025 01:59:29.546] [Server thread/INFO] [CustomCrafting/]: [LOCAL] Looking through data folder...
-[28Jan2025 01:59:29.546] [Server thread/INFO] [CustomCrafting/]: [LOCAL] Loading Items
-[28Jan2025 01:59:30.127] [Server thread/INFO] [CustomCrafting/]: [LOCAL] Loading Recipes
-[28Jan2025 01:59:30.321] [Server thread/INFO] [CustomCrafting/]: [LOCAL] Loaded 2 recipes in 193ms
-[28Jan2025 01:59:30.325] [Server thread/INFO] [CustomCrafting/]: Indexing Recipe Book...
-[28Jan2025 01:59:30.346] [Server thread/INFO] [CustomCrafting/]: Indexed Recipe Book!
-[28Jan2025 01:59:30.370] [Server thread/INFO] [CustomCrafting/]: ------------------------------------------------------------------------
-[28Jan2025 01:59:30.372] [Server thread/INFO] [ConditionalEvents/]: Enabling ConditionalEvents v4.59.1
-[28Jan2025 01:59:30.636] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered internal expansion: conditionalevents [4.59.1]
-[28Jan2025 01:59:30.665] [Server thread/INFO] [Console/]: [ConditionalEvents] Has been enabled! Version: 4.59.1
-[28Jan2025 01:59:30.665] [Server thread/INFO] [Console/]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
-[28Jan2025 01:59:30.688] [Server thread/INFO] [Console/]: There is a new version available. (4.60.1)
-[28Jan2025 01:59:30.688] [Server thread/INFO] [Console/]: You can download it at: https://modrinth.com/plugin/conditionalevents
-[28Jan2025 01:59:30.716] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
-[28Jan2025 01:59:30.920] [Server thread/INFO] [PlaceholderAPI/]: Placeholder expansion registration initializing...
-[28Jan2025 01:59:30.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[28Jan2025 01:59:34.343] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Jan2025 01:59:34.636] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Jan2025 01:59:34.827] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Jan2025 01:59:34.854] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Jan2025 01:59:34.914] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Jan2025 01:59:35.070] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Jan2025 01:59:35.087] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Jan2025 01:59:35.193] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Jan2025 01:59:35.259] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Jan2025 01:59:35.438] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Jan2025 01:59:35.961] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Jan2025 01:59:36.460] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Jan2025 01:59:36.957] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Jan2025 01:59:37.444] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Jan2025 01:59:37.943] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Jan2025 01:59:38.525] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Jan2025 01:59:38.954] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Jan2025 01:59:39.442] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Jan2025 01:59:39.938] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Jan2025 01:59:40.437] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Jan2025 01:59:40.968] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Jan2025 01:59:41.437] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Jan2025 01:59:41.936] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Jan2025 01:59:42.440] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Jan2025 01:59:42.939] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Jan2025 01:59:43.436] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[28Jan2025 01:59:43.937] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[28Jan2025 01:59:44.440] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[28Jan2025 01:59:44.944] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[28Jan2025 01:59:45.437] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[28Jan2025 01:59:45.940] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[28Jan2025 01:59:46.437] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 8%
-[28Jan2025 01:59:46.944] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
-[28Jan2025 01:59:47.435] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
-[28Jan2025 01:59:47.935] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[28Jan2025 01:59:48.439] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 21%
-[28Jan2025 01:59:48.936] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 21%
-[28Jan2025 01:59:49.437] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 23%
-[28Jan2025 01:59:49.941] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 27%
-[28Jan2025 01:59:50.437] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
-[28Jan2025 01:59:50.937] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 41%
-[28Jan2025 01:59:51.437] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 44%
-[28Jan2025 01:59:51.941] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 45%
-[28Jan2025 01:59:52.464] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 45%
-[28Jan2025 01:59:52.940] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
-[28Jan2025 01:59:53.451] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 52%
-[28Jan2025 01:59:53.943] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
-[28Jan2025 01:59:54.438] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 67%
-[28Jan2025 01:59:54.936] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 74%
-[28Jan2025 01:59:55.436] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 86%
-[28Jan2025 01:59:55.936] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 97%
-[28Jan2025 01:59:56.687] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 25753 ms
-[28Jan2025 01:59:56.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (47.049s)! For help, type "help"
-[28Jan2025 01:59:56.733] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[28Jan2025 01:59:56.733] [Server thread/INFO] [Arclight/]: Forwarding forge permission[forge:default_handler] to bukkit
-[28Jan2025 01:59:56.736] [Server thread/INFO] [FTB Quests/]: Loading quests from /workspaces/WaV2/servidor_minecraft/config/ftbquests/quests
-[28Jan2025 01:59:56.779] [Server thread/INFO] [FTB Quests/]: Loaded 2 chapter groups, 1 chapters, 9 quests, 0 reward tables
-[28Jan2025 01:59:56.779] [Server thread/INFO] [FTB Quests/]: Loading quest progression data from /workspaces/WaV2/servidor_minecraft/config/ftbquests/quests
-[28Jan2025 01:59:56.822] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[28Jan2025 01:59:56.891] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 25565
-[28Jan2025 01:59:57.088] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered internal expansion: discordsrv [1.28.0]
-[28Jan2025 01:59:57.090] [Server thread/WARN] [Arclight/]: Legacy ItemStack being used, updates will not applied: 1 crafting_table
-[28Jan2025 01:59:57.091] [Server thread/WARN] [Arclight/]: Legacy ItemStack being used, updates will not applied: 1 crafting_table
-[28Jan2025 01:59:57.092] [Server thread/WARN] [Arclight/]: Legacy ItemStack being used, updates will not applied: 1 knowledge_book
-[28Jan2025 01:59:57.093] [Server thread/WARN] [Arclight/]: Legacy ItemStack being used, updates will not applied: 1 knowledge_book
-[28Jan2025 01:59:57.094] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered external expansion: player [2.0.8]
-[28Jan2025 01:59:57.094] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered external expansion: checkitem [2.7.8]
-[28Jan2025 01:59:57.095] [Server thread/INFO] [Console/]: 2 placeholder hook(s) registered!
-[28Jan2025 01:59:57.416] [DiscordSRV - JDA Callback 0/INFO] [DiscordSRV/]: Cleared all pre-existing slash commands in 1/1 guilds (0 cancelled)
-[28Jan2025 02:00:05.699] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Dragon20O0 is ee7539de-cf01-342a-86a3-178d274f21e1
-[28Jan2025 02:00:07.987] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@70be66f6
-[28Jan2025 02:00:08.007] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dragon20O0[/127.191.135.241:51381] logged in with entity id 14 at (14.434242112282613, 172.00496263535433, 4.063549194281604)
-[28Jan2025 02:00:09.154] [Server thread/INFO] [STDOUT/]: printVersionToSceen : UP_TO_DATE, false
-[28Jan2025 02:00:09.590] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dragon20O0 (18)
-[28Jan2025 02:00:09.599] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dragon20O0
-[28Jan2025 02:00:09.643] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
-[28Jan2025 02:00:09.643] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.util.EntityTypeContainerContainable
-[28Jan2025 02:00:23.886] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityHidebehind from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
-[28Jan2025 02:00:28.636] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:zombie but it was marked as removed already
-[28Jan2025 02:00:38.039] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 lost connection: Timed out
-[28Jan2025 02:00:38.041] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dragon20O0
-[28Jan2025 02:00:38.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dragon20O0 left the game.
-[28Jan2025 02:01:32.334] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
-[28Jan2025 02:01:40.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] revivan el server
-[28Jan2025 02:02:48.963] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Dragon20O0 is ee7539de-cf01-342a-86a3-178d274f21e1
-[28Jan2025 02:02:51.194] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3b91b018
-[28Jan2025 02:02:51.202] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dragon20O0[/127.191.135.241:51937] logged in with entity id 21331 at (14.434242112282613, 172.00496263535433, 4.063549194281604)
-[28Jan2025 02:02:51.411] [Server thread/INFO] [STDOUT/]: printVersionToSceen : UP_TO_DATE, false
-[28Jan2025 02:02:51.663] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dragon20O0 (18)
-[28Jan2025 02:02:51.663] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dragon20O0
-[28Jan2025 02:03:21.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 lost connection: Timed out
-[28Jan2025 02:03:21.285] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dragon20O0
-[28Jan2025 02:03:21.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dragon20O0 left the game.
-[28Jan2025 02:04:27.568] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Dragon20O0 is ee7539de-cf01-342a-86a3-178d274f21e1
-[28Jan2025 02:04:29.791] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5bc58cdf
-[28Jan2025 02:04:29.799] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dragon20O0[/127.191.135.241:47579] logged in with entity id 42540 at (14.434242112282613, 172.00496263535433, 4.063549194281604)
-[28Jan2025 02:04:29.929] [Server thread/INFO] [STDOUT/]: printVersionToSceen : UP_TO_DATE, false
-[28Jan2025 02:04:30.181] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dragon20O0 (18)
-[28Jan2025 02:04:30.181] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dragon20O0
-[28Jan2025 02:04:59.885] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 lost connection: Timed out
-[28Jan2025 02:04:59.885] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dragon20O0
-[28Jan2025 02:04:59.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dragon20O0 left the game.
-[28Jan2025 02:10:51.859] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Dragon20O0 is ee7539de-cf01-342a-86a3-178d274f21e1
-[28Jan2025 02:11:04.139] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@337c4bc7
-[28Jan2025 02:11:04.145] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dragon20O0[/127.191.135.241:46487] logged in with entity id 64136 at (14.434242112282613, 172.00496263535433, 4.063549194281604)
-[28Jan2025 02:11:04.274] [Server thread/INFO] [STDOUT/]: printVersionToSceen : UP_TO_DATE, false
-[28Jan2025 02:11:04.715] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dragon20O0 (18)
-[28Jan2025 02:11:04.716] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dragon20O0
-[28Jan2025 02:11:34.234] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 lost connection: Timed out
-[28Jan2025 02:11:34.235] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dragon20O0
-[28Jan2025 02:11:34.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dragon20O0 left the game.
-[28Jan2025 02:15:17.282] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
-[28Jan2025 02:15:42.660] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Dragon20O0 is ee7539de-cf01-342a-86a3-178d274f21e1
-[28Jan2025 02:15:43.285] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3a610f9c[id=ee7539de-cf01-342a-86a3-178d274f21e1,name=Dragon20O0,properties={},legacy=false] (/127.191.135.241:49763) lost connection: Disconnected
-[28Jan2025 02:17:07.505] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Dragon20O0 is ee7539de-cf01-342a-86a3-178d274f21e1
-[28Jan2025 02:17:09.887] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@f5a09f5
-[28Jan2025 02:17:09.893] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dragon20O0[/127.191.135.241:56425] logged in with entity id 85341 at (14.434242112282613, 172.00496263535433, 4.063549194281604)
-[28Jan2025 02:17:10.012] [Server thread/INFO] [STDOUT/]: printVersionToSceen : UP_TO_DATE, false
-[28Jan2025 02:17:11.099] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dragon20O0 (18)
-[28Jan2025 02:17:11.100] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dragon20O0
-[28Jan2025 02:17:11.582] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
-[28Jan2025 02:17:16.532] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
-[28Jan2025 02:17:16.533] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
-[28Jan2025 02:17:39.936] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 lost connection: Timed out
-[28Jan2025 02:17:39.936] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dragon20O0
-[28Jan2025 02:17:39.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dragon20O0 left the game.
-[28Jan2025 02:19:27.547] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Dragon20O0 is ee7539de-cf01-342a-86a3-178d274f21e1
-[28Jan2025 02:19:29.787] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1d6eadd8
-[28Jan2025 02:19:29.791] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dragon20O0[/127.191.135.241:35463] logged in with entity id 106723 at (14.434242112282613, 172.00496263535433, 4.063549194281604)
-[28Jan2025 02:19:29.869] [Server thread/INFO] [STDOUT/]: printVersionToSceen : UP_TO_DATE, false
-[28Jan2025 02:19:30.298] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dragon20O0 (18)
-[28Jan2025 02:19:30.298] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dragon20O0
-[28Jan2025 02:19:50.885] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
-[28Jan2025 02:19:59.836] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 lost connection: Timed out
-[28Jan2025 02:19:59.836] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dragon20O0
-[28Jan2025 02:19:59.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dragon20O0 left the game.
-[28Jan2025 02:21:42.205] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player vonafont is 6efa887c-7d2c-3055-a599-0dafd6e9e469
-[28Jan2025 02:21:48.132] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4cc9ed70[id=6efa887c-7d2c-3055-a599-0dafd6e9e469,name=vonafont,properties={},legacy=false] (/127.125.211.166:39991) lost connection: Disconnected
-[28Jan2025 02:22:21.497] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player vonafont is 6efa887c-7d2c-3055-a599-0dafd6e9e469
-[28Jan2025 02:22:40.482] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5d612528[id=6efa887c-7d2c-3055-a599-0dafd6e9e469,name=vonafont,properties={},legacy=false] (/127.125.211.166:60067) lost connection: Disconnected
-[28Jan2025 02:23:03.009] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Dragon20O0 is ee7539de-cf01-342a-86a3-178d274f21e1
-[28Jan2025 02:23:05.537] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@244f5117
-[28Jan2025 02:23:05.543] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dragon20O0[/127.191.135.241:54449] logged in with entity id 127940 at (14.434242112282613, 172.00496263535433, 4.063549194281604)
-[28Jan2025 02:23:05.731] [Server thread/INFO] [STDOUT/]: printVersionToSceen : UP_TO_DATE, false
-[28Jan2025 02:23:05.944] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dragon20O0 (18)
-[28Jan2025 02:23:05.944] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dragon20O0
-[28Jan2025 02:23:35.635] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 lost connection: Timed out
-[28Jan2025 02:23:35.635] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dragon20O0
-[28Jan2025 02:23:35.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dragon20O0 left the game.
-[28Jan2025 02:24:39.806] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Chocoton is cb254ed9-e75e-3767-8469-835d0bac8cfb
-[28Jan2025 02:24:42.483] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5b35cdba
-[28Jan2025 02:24:42.486] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chocoton[/127.46.211.90:60855] logged in with entity id 149323 at (10.5, 165.0, -3.5)
-[28Jan2025 02:24:42.680] [Server thread/INFO] [STDOUT/]: printVersionToSceen : UP_TO_DATE, false
-[28Jan2025 02:24:43.985] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Chocoton (18)
-[28Jan2025 02:24:43.985] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Chocoton
-[28Jan2025 02:24:45.234] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
-[28Jan2025 02:24:59.520] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player vonafont is 6efa887c-7d2c-3055-a599-0dafd6e9e469
-[28Jan2025 02:25:05.235] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:zombie but it was marked as removed already
-[28Jan2025 02:25:18.485] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6c19ea8a[id=6efa887c-7d2c-3055-a599-0dafd6e9e469,name=vonafont,properties={},legacy=false] (/127.125.211.166:37659) lost connection: Disconnected
-[28Jan2025 02:25:25.052] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Dragon20O0 is ee7539de-cf01-342a-86a3-178d274f21e1
-[28Jan2025 02:25:29.588] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2750b219
-[28Jan2025 02:25:29.592] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dragon20O0[/127.191.135.241:58945] logged in with entity id 182529 at (14.434242112282613, 172.00496263535433, 4.063549194281604)
-[28Jan2025 02:25:29.705] [Server thread/INFO] [STDOUT/]: printVersionToSceen : UP_TO_DATE, false
-[28Jan2025 02:25:29.939] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dragon20O0 (18)
-[28Jan2025 02:25:29.940] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dragon20O0
-[28Jan2025 02:25:48.511] [User Authenticator #14/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player vonafont is 6efa887c-7d2c-3055-a599-0dafd6e9e469
-[28Jan2025 02:25:59.685] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 lost connection: Timed out
-[28Jan2025 02:25:59.685] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dragon20O0
-[28Jan2025 02:25:59.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dragon20O0 left the game.
-[28Jan2025 02:26:07.484] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@75c95792[id=6efa887c-7d2c-3055-a599-0dafd6e9e469,name=vonafont,properties={},legacy=false] (/127.125.211.166:33945) lost connection: Disconnected
-[28Jan2025 02:26:37.051] [User Authenticator #15/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player RIn_0t is 2437f82d-7ade-3836-9bd0-821fc375eb28
-[28Jan2025 02:26:37.368] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [dragon_bossfight:dragon_bossfight,weeping_angels:main_channel,difficult_caves:difficult_caves,latam_economy:latam_economy,geckolib3:main,nesquiksmod:nesquiksmod,tilingodxmc_mod:tilingodxmc_mod,wegotrunnners:wegotrunnners,difficult_spawners:difficult_spawners,roaming_alphas:roaming_alphas] rejected their client side version number
-[28Jan2025 02:26:37.369] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[28Jan2025 02:26:37.383] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
-[28Jan2025 02:26:37.385] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@fb3e426[id=2437f82d-7ade-3836-9bd0-821fc375eb28,name=RIn_0t,properties={},legacy=false] (/127.229.129.18:34103) lost connection: Connection closed - mismatched mod channel list
-[28Jan2025 02:26:46.152] [User Authenticator #16/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player vonafont is 6efa887c-7d2c-3055-a599-0dafd6e9e469
-[28Jan2025 02:27:05.144] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1c7648e5[id=6efa887c-7d2c-3055-a599-0dafd6e9e469,name=vonafont,properties={},legacy=false] (/127.125.211.166:55921) lost connection: Disconnected
-[28Jan2025 02:27:17.333] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
-[28Jan2025 02:27:28.933] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:zombie but it was marked as removed already
-[28Jan2025 02:27:46.959] [User Authenticator #17/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player vonafont is 6efa887c-7d2c-3055-a599-0dafd6e9e469
-[28Jan2025 02:27:52.234] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:zombie but it was marked as removed already
-[28Jan2025 02:28:01.034] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chocoton lost connection: Disconnected
-[28Jan2025 02:28:01.034] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Chocoton
-[28Jan2025 02:28:01.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Chocoton left the game
-[28Jan2025 02:28:05.882] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@29a8a0c1[id=6efa887c-7d2c-3055-a599-0dafd6e9e469,name=vonafont,properties={},legacy=false] (/127.125.211.166:41545) lost connection: Disconnected
-[28Jan2025 02:28:30.399] [User Authenticator #18/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player remi700_z7 is c7e768a9-2885-3e5c-bac9-0dabef32fa80
-[28Jan2025 02:28:32.533] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@11fcba92
-[28Jan2025 02:28:32.535] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: remi700_z7[/127.204.192.107:41109] logged in with entity id 288738 at (22.5, 147.0, 8.5)
-[28Jan2025 02:28:32.742] [Server thread/INFO] [STDOUT/]: printVersionToSceen : UP_TO_DATE, false
-[28Jan2025 02:28:33.593] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of remi700_z7 (18)
-[28Jan2025 02:28:33.594] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to remi700_z7
+[28Jan2025 21:57:13.155] [Server thread/INFO] [CustomCrafting/]: ____ _  _ ____ ___ ____ _  _ ____ ____ ____ ____ ___ _ _  _ ____ 
+[28Jan2025 21:57:13.155] [Server thread/INFO] [CustomCrafting/]: |    |  | [__   |  |  | |\/| |    |__/ |__| |___  |  | |\ | | __ 
+[28Jan2025 21:57:13.155] [Server thread/INFO] [CustomCrafting/]: |___ |__| ___]  |  |__| |  | |___ |  \ |  | |     |  | | \| |__]
+[28Jan2025 21:57:13.155] [Server thread/INFO] [CustomCrafting/]:     Version      | v4.16.9.1
+[28Jan2025 21:57:13.155] [Server thread/INFO] [CustomCrafting/]:     WolfyUtils   | v4.17-beta.1
+[28Jan2025 21:57:13.156] [Server thread/INFO] [CustomCrafting/]:     Bukkit       | arclight-1.18.2-1.0.12-fded76e (MC: 1.18.2)(API: 1.18.2-R0.1-SNAPSHOT)
+[28Jan2025 21:57:13.193] [Server thread/INFO] [NBTAPI/]: [NBTAPI] Found Minecraft: v1_18_R2! Trying to find NMS support
+[28Jan2025 21:57:13.194] [Server thread/INFO] [NBTAPI/]: [NBTAPI] NMS support 'MC1_18_R2' loaded!
+[28Jan2025 21:57:13.199] [Server thread/INFO] [NBTAPI/]: [NBTAPI] Using the plugin 'WolfyUtilities' to create a bStats instance!
+[28Jan2025 21:57:14.048] [Server thread/INFO] [CustomCrafting/]: 
+[28Jan2025 21:57:14.048] [Server thread/INFO] [CustomCrafting/]: Special thanks to my Patrons for supporting this project: 
+[28Jan2025 21:57:14.048] [Server thread/INFO] [CustomCrafting/]: Omarlatif, Nat R, Obsidian_Sword, LiveJunye, Mithran, Teddy
+[28Jan2025 21:57:14.048] [Server thread/INFO] [CustomCrafting/]: Invictus_Vulpes , Luuk Musch, fioxu, JorshStark, Perny Dev, Charlie
+[28Jan2025 21:57:14.049] [Server thread/INFO] [CustomCrafting/]: iachen, whja t, Green Masks, lance fector, Jack Snellings, MineHouse Server
+[28Jan2025 21:57:14.049] [Server thread/INFO] [CustomCrafting/]: ------------------------------------------------------------------------
+[28Jan2025 21:57:14.052] [Server thread/INFO] [CustomCrafting/]: Registering PlaceHolder
+[28Jan2025 21:57:14.055] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered internal expansion: customcrafting [4.16.9.1]
+[28Jan2025 21:57:14.065] [Server thread/INFO] [CustomCrafting/]: Data destination: LOCAL
+[28Jan2025 21:57:14.362] [Server thread/INFO] [CustomCrafting/]: Initiating Inventory GUIs
+[28Jan2025 21:57:14.364] [Server thread/INFO] [CustomCrafting/]: Register ItemCreator Tabs
+[28Jan2025 21:57:14.451] [DiscordSRV - Initialization/INFO] [DiscordSRV/]: [JDA] Login Successful!
+[28Jan2025 21:57:14.926] [JDA MainWS-ReadThread/INFO] [DiscordSRV/]: [JDA] Connected to WebSocket
+[28Jan2025 21:57:15.797] [JDA MainWS-ReadThread/INFO] [DiscordSRV/]: [JDA] Finished Loading!
+[28Jan2025 21:57:15.862] [DiscordSRV - Initialization/INFO] [DiscordSRV/]: El ID del canal de la consola no es válido, no se enviará ningún mensaje de la consola
+[28Jan2025 21:57:15.975] [DiscordSRV - Initialization/INFO] [DiscordSRV/]: Activando complementos de PlaceholderAPI
+[28Jan2025 21:57:16.175] [DiscordSRV - Channel Topic Updater/WARN] [DiscordSRV/]: Could not set topic of channel TC:‖🌎‖◽server-minecraft(1299808770200702976) because the bot does not have the "Manage Channels" permission
+[28Jan2025 21:57:17.296] [Server thread/INFO] [CustomCrafting/]: Loading Recipes & Items
+[28Jan2025 21:57:17.297] [Server thread/INFO] [CustomCrafting/]: - - - - [Local Storage] - - - -
+[28Jan2025 21:57:17.298] [Server thread/INFO] [CustomCrafting/]: [LOCAL] Using 4 threads
+[28Jan2025 21:57:17.299] [Server thread/INFO] [CustomCrafting/]: [LOCAL] Looking through data folder...
+[28Jan2025 21:57:17.301] [Server thread/INFO] [CustomCrafting/]: [LOCAL] Loading Items
+[28Jan2025 21:57:17.665] [Server thread/INFO] [CustomCrafting/]: [LOCAL] Loading Recipes
+[28Jan2025 21:57:17.925] [Server thread/INFO] [CustomCrafting/]: [LOCAL] Loaded 2 recipes in 260ms
+[28Jan2025 21:57:17.939] [Server thread/INFO] [CustomCrafting/]: Indexing Recipe Book...
+[28Jan2025 21:57:17.957] [Server thread/INFO] [CustomCrafting/]: Indexed Recipe Book!
+[28Jan2025 21:57:17.992] [Server thread/INFO] [CustomCrafting/]: ------------------------------------------------------------------------
+[28Jan2025 21:57:17.992] [Server thread/INFO] [ConditionalEvents/]: Enabling ConditionalEvents v4.59.1
+[28Jan2025 21:57:18.190] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered internal expansion: conditionalevents [4.59.1]
+[28Jan2025 21:57:18.209] [Server thread/INFO] [Console/]: [ConditionalEvents] Has been enabled! Version: 4.59.1
+[28Jan2025 21:57:18.209] [Server thread/INFO] [Console/]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+[28Jan2025 21:57:18.228] [Server thread/INFO] [Console/]: There is a new version available. (4.60.1)
+[28Jan2025 21:57:18.228] [Server thread/INFO] [Console/]: You can download it at: https://modrinth.com/plugin/conditionalevents
+[28Jan2025 21:57:18.282] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+[28Jan2025 21:57:18.583] [Server thread/INFO] [PlaceholderAPI/]: Placeholder expansion registration initializing...
+[28Jan2025 21:57:18.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[28Jan2025 21:57:22.395] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jan2025 21:57:22.424] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jan2025 21:57:22.450] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jan2025 21:57:22.479] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jan2025 21:57:22.498] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jan2025 21:57:22.541] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jan2025 21:57:22.575] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jan2025 21:57:22.610] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jan2025 21:57:22.671] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jan2025 21:57:23.117] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jan2025 21:57:23.602] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jan2025 21:57:24.100] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jan2025 21:57:24.617] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jan2025 21:57:25.104] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jan2025 21:57:25.605] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jan2025 21:57:26.102] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jan2025 21:57:26.648] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jan2025 21:57:27.102] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jan2025 21:57:27.601] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jan2025 21:57:28.102] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jan2025 21:57:28.601] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Jan2025 21:57:29.110] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[28Jan2025 21:57:29.605] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[28Jan2025 21:57:30.102] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[28Jan2025 21:57:30.615] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[28Jan2025 21:57:31.107] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[28Jan2025 21:57:31.608] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[28Jan2025 21:57:32.101] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[28Jan2025 21:57:32.624] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
+[28Jan2025 21:57:33.106] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
+[28Jan2025 21:57:33.604] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
+[28Jan2025 21:57:34.101] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
+[28Jan2025 21:57:34.599] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 20%
+[28Jan2025 21:57:35.108] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 27%
+[28Jan2025 21:57:35.610] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 34%
+[28Jan2025 21:57:36.102] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 46%
+[28Jan2025 21:57:36.600] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
+[28Jan2025 21:57:37.177] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 60%
+[28Jan2025 21:57:37.601] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
+[28Jan2025 21:57:38.104] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
+[28Jan2025 21:57:38.743] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
+[28Jan2025 21:57:39.100] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 95%
+[28Jan2025 21:57:40.308] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 21710 ms
+[28Jan2025 21:57:40.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (36.788s)! For help, type "help"
+[28Jan2025 21:57:40.344] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[28Jan2025 21:57:40.345] [Server thread/INFO] [Arclight/]: Forwarding forge permission[forge:default_handler] to bukkit
+[28Jan2025 21:57:40.359] [Server thread/INFO] [FTB Quests/]: Loading quests from /workspaces/WaV2/servidor_minecraft/config/ftbquests/quests
+[28Jan2025 21:57:40.386] [Server thread/INFO] [FTB Quests/]: Loaded 2 chapter groups, 1 chapters, 9 quests, 0 reward tables
+[28Jan2025 21:57:40.386] [Server thread/INFO] [FTB Quests/]: Loading quest progression data from /workspaces/WaV2/servidor_minecraft/config/ftbquests/quests
+[28Jan2025 21:57:40.419] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[28Jan2025 21:57:40.456] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 25565
+[28Jan2025 21:57:40.558] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered internal expansion: discordsrv [1.28.0]
+[28Jan2025 21:57:40.561] [Server thread/WARN] [Arclight/]: Legacy ItemStack being used, updates will not applied: 1 crafting_table
+[28Jan2025 21:57:40.562] [Server thread/WARN] [Arclight/]: Legacy ItemStack being used, updates will not applied: 1 crafting_table
+[28Jan2025 21:57:40.565] [Server thread/WARN] [Arclight/]: Legacy ItemStack being used, updates will not applied: 1 knowledge_book
+[28Jan2025 21:57:40.565] [Server thread/WARN] [Arclight/]: Legacy ItemStack being used, updates will not applied: 1 knowledge_book
+[28Jan2025 21:57:40.567] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered external expansion: player [2.0.8]
+[28Jan2025 21:57:40.567] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered external expansion: checkitem [2.7.8]
+[28Jan2025 21:57:40.569] [Server thread/INFO] [Console/]: 2 placeholder hook(s) registered!
+[28Jan2025 21:57:41.003] [DiscordSRV - JDA Callback 0/INFO] [DiscordSRV/]: Cleared all pre-existing slash commands in 1/1 guilds (0 cancelled)
+[28Jan2025 21:57:41.365] [Server thread/WARN] [DiscordSRV/]: Could not send message in channel TC:‖🌎‖◽server-minecraft(1299808770200702976) because the bot does not have the "Send Messages" permission
+[28Jan2025 21:58:04.112] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Dragon20O0 is ee7539de-cf01-342a-86a3-178d274f21e1
+[28Jan2025 21:58:06.342] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@65203b98
+[28Jan2025 21:58:06.368] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dragon20O0[/100.70.78.59:51216] logged in with entity id 14 at (-6.068678229920963, 165.0, -3.677047138715711)
+[28Jan2025 21:58:07.045] [Server thread/INFO] [STDOUT/]: printVersionToSceen : UP_TO_DATE, false
+[28Jan2025 21:58:07.113] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dragon20O0 (18)
+[28Jan2025 21:58:07.114] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dragon20O0
+[28Jan2025 21:58:07.183] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[28Jan2025 21:58:07.184] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.util.EntityTypeContainerContainable
+[28Jan2025 21:58:08.052] [Craft Scheduler Thread - 2/WARN] [DiscordSRV/]: Could not send message in channel TC:‖🌎‖◽server-minecraft(1299808770200702976) because the bot does not have the "Send Messages" permission
+[28Jan2025 21:58:13.643] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ee7539de-cf01-342a-86a3-178d274f21e1
+[28Jan2025 21:58:14.352] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityHidebehind from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[28Jan2025 21:58:14.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ee7539de-cf01-342a-86a3-178d274f21e1
+[28Jan2025 21:58:14.646] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dragon20O0 (ee7539de-cf01-342a-86a3-178d274f21e1) successfully connected to voice chat
+[28Jan2025 21:58:35.004] [Server thread/INFO] [Console/]: <Dragon20O0> wa
+[28Jan2025 21:59:01.399] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[28Jan2025 21:59:05.551] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /scoreboard objectives remove Muertes
+[28Jan2025 21:59:05.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dragon20O0: Removed objective [Muertes]]
+[28Jan2025 21:59:22.988] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /scoreboard objectives add Muertes deathCount
+[28Jan2025 21:59:22.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dragon20O0: Created new objective [Muertes]]
+[28Jan2025 21:59:27.250] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[28Jan2025 21:59:32.001] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /scoreboard objectives setdisplay sidebar
+[28Jan2025 21:59:32.499] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:zombie but it was marked as removed already
+[28Jan2025 21:59:36.198] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[28Jan2025 21:59:36.677] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /scoreboard objectives setdisplay list
+[28Jan2025 21:59:43.587] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /scoreboard objectives setdisplay sidebar Muertes
+[28Jan2025 21:59:43.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dragon20O0: Set display slot sidebar to show objective Muertes]
+[28Jan2025 21:59:52.768] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /scoreboard objectives setdisplay list Muertes
+[28Jan2025 21:59:52.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dragon20O0: Set display slot list to show objective Muertes]
+[28Jan2025 22:00:06.674] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /scoreboard objectives list
+[28Jan2025 22:00:08.738] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /scoreboard objectives list
+[28Jan2025 22:00:16.235] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /scoreboard objectives list
+[28Jan2025 22:00:18.999] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:zombie but it was marked as removed already
+[28Jan2025 22:00:35.842] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /scoreboard objectives setdisplay belowName Muertes
+[28Jan2025 22:00:35.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dragon20O0: Set display slot belowName to show objective Muertes]
+[28Jan2025 22:00:47.870] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /scoreboard objectives remove Muertes
+[28Jan2025 22:00:47.870] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dragon20O0: Removed objective [Muertes]]
+[28Jan2025 22:00:56.548] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:zombie but it was marked as removed already
+[28Jan2025 22:01:06.786] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /scoreboard objectives add Muertes deathCount 0
+[28Jan2025 22:01:06.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dragon20O0: Created new objective [0]]
+[28Jan2025 22:01:13.619] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /scoreboard objectives setdisplay sidebar Muertes
+[28Jan2025 22:01:13.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dragon20O0: Set display slot sidebar to show objective 0]
+[28Jan2025 22:01:40.848] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[28Jan2025 22:01:47.198] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[28Jan2025 22:01:49.449] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:zombie but it was marked as removed already
+[28Jan2025 22:02:19.384] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /setworldspawn ~ ~ ~
+[28Jan2025 22:02:19.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dragon20O0: Set the world spawn point to 7, 170, 3 [0.0]]
+[28Jan2025 22:02:36.450] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[28Jan2025 22:02:40.098] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:zombie but it was marked as removed already
+[28Jan2025 22:02:51.349] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[28Jan2025 22:04:05.798] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:zombie but it was marked as removed already
+[28Jan2025 22:04:41.749] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[28Jan2025 22:04:53.599] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[28Jan2025 22:04:57.749] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[28Jan2025 22:05:21.949] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:zombie but it was marked as removed already

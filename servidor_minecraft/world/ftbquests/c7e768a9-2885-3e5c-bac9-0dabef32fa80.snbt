@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "c7e768a928853e5cbac90dabef32fa80"
+	name: "remi700_z7"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}
