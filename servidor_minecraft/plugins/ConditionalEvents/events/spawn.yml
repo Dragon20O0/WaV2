@@ -1,0 +1,67 @@
+Events:
+  xralphamobs:
+    enabled: true
+    type: entity_spawn
+    conditions:
+    - '%entity% == ROAMING_ALPHAS_ALPHA_ZOMBIE or %entity% == ROAMING_ALPHAS_ALPHA_SKELETON
+      or %entity% == ROAMING_ALPHAS_ALPHA_CREEPER or %entity% == ROAMING_ALPHAS_ALPHA_ENDERMAN
+      or %entity% == ROAMING_ALPHAS_ALPHA_STRAY'
+    actions:
+      default:
+      - 'cancel_event: true'
+  
+  xweepingangels:
+    enabled: true
+    type: entity_spawn
+    conditions:
+    - '%entity% == WEEPING_ANGELS_WEEPING_ANGEL'
+    actions:
+      default:
+      - 'cancel_event: true'
+  
+  xrobotbomba:
+    enabled: true
+    type: entity_spawn
+    conditions:
+    - '%entity% == TILINGODXMC_MOD_ROBOT_BOMBA'
+    actions:
+      default:
+      - 'cancel_event: true'
+  
+  xhidebehind:
+    enabled: true
+    type: entity_spawn
+    conditions:
+    - '%entity% == WHISPERWOODS_HIDEBEHIND'
+    actions:
+      default:
+      - 'cancel_event: true'
+  
+  xzotzpyre:
+    enabled: true
+    type: entity_spawn
+    conditions:
+    - '%entity% == WHISPERWOODS_ZOTZPYRE'
+    actions:
+      default:
+      - 'cancel_event: true'
+  
+  xfantasmas:
+    enabled: false
+    type: entity_spawn
+    conditions:
+    - '%entity% == NESQUIKSMOD_GHOST or %entity% == NESQUIKSMOD_GHOST_HAPPY or %entity%
+      == NESQUIKSMOD_GHOST_ANGRY or %entity% == NESQUIKSMOD_GHOST_KID or %entity%
+      == NESQUIKSMOD_GHOST_GRANNY or %entity% == NESQUIKSMOD_GHOST_BOSS'
+    actions:
+      default:
+      - 'cancel_event: true'
+  
+  xemerald:
+    enabled: true
+    type: entity_spawn
+    conditions:
+    - '%entity% == DRAGON_BOSSFIGHT_GUERREROESMERALDA'
+    actions:
+      default:
+      - 'cancel_event: true'

@@ -1,0 +1,19 @@
+{
+	version: 1
+	uuid: "ee7539decf01342a86a3178d274f21e1"
+	name: "Dragon20O0"
+	can_edit: true
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: { }
+	started: {
+		0000000000000001: 1735417351837L
+	}
+	completed: {
+		460C2491E5448462: 1735422492217L
+	}
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

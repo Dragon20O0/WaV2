@@ -1,0 +1,37 @@
+Events:
+  Dia1:
+    type: block_interact
+    conditions:
+    - '%block_x%, %block_y%, %block_z% == -44, 167, -13 or %block_x%, %block_y%, %block_z% == -44, 166, -13'
+    - '%action_type% == RIGHT_CLICK'
+    - '%item% == TILINGODXMC_MOD_LLAMITA'
+    - '%item_name% ==  LLAMITA DÍA 1'
+    - "%item_lore% ==  Entrega esta llamita en el centro para recibir la recompensa"
+    actions:
+      default:
+      - "remove_item: TILINGODXMC_MOD_LLAMITA;1;name:  LLAMITA DÍA 1"
+      - 'console_command: fill -43 165 -12 -44 165 -12 bananadecor:cyan_lamp'
+      - "console_command: particle minecraft:glow_squid_ink -43.00 166.00 -11.48"
+      - "playsound: BLOCK_RESPAWN_ANCHOR_CHARGE;50;0.1"
+      - "wait: 1"
+      - "console_command: fill -45 165 -13 -45 165 -12 bananadecor:cyan_lamp"
+      - "console_command: particle minecraft:glow_squid_ink -44.50 166.00 -11.97"
+      - "playsound: BLOCK_RESPAWN_ANCHOR_CHARGE;50;0.1"
+      - "wait: 1"
+      - "console_command: fill -45 165 -14 -44 165 -14 bananadecor:cyan_lamp"
+      - "console_command: particle minecraft:glow_squid_ink -44.00 166.00 -13.49"
+      - "playsound: BLOCK_RESPAWN_ANCHOR_CHARGE;50;0.1"
+      - "wait: 1"
+      - "console_command: fill -43 165 -14 -43 165 -13 bananadecor:cyan_lamp"
+      - "console_command: particle minecraft:glow_squid_ink -42.49 166.00 -13.00"
+      - "playsound: BLOCK_RESPAWN_ANCHOR_CHARGE;50;0.1"
+      - "wait: 1"
+      - "console_command: fill -44 167 -13 -44 167 -13 bananadecor:cyan_lamp[lit=true]"
+      - "playsound: BLOCK_RESPAWN_ANCHOR_DEPLETE;50;0.1"
+      - "console_command: particle minecraft:glow_squid_ink -43.55 168.00 -12.48"
+      - 'console_command: tellraw @a {"text":" %player% ha completado la misión diaria\n","color":"dark_aqua","bold":true}]'
+      - "give_item: saved_item:d1"
+      - "wait: 2"
+      - "console_command: fill -43 165 -12 -45 165 -14 bananadecor:white_lamp"
+      - "console_command: fill -44 167 -13 -44 167 -13 bananadecor:cyan_lamp[lit=false]"
+      - "playsound: BLOCK_RESPAWN_ANCHOR_SET_SPAWN;50;0.1"

@@ -1,0 +1,189 @@
+{
+	id: "7BCF6F82C335BC50"
+	group: "460C2491E5448462"
+	order_index: 0
+	filename: "misiones_diarias"
+	title: "Día 1"
+	icon: "minecraft:iron_block"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -1.0d
+			y: -2.0d
+			id: "7382C6B0364EB563"
+			tasks: [{
+				id: "07C4B77E74668E7A"
+				type: "item"
+				item: {
+					id: "minecraft:iron_helmet"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				only_from_crafting: true
+			}]
+		}
+		{
+			x: -2.0d
+			y: -1.0d
+			id: "06F8AF74CCE60E0A"
+			tasks: [{
+				id: "2C338CB667F2BB91"
+				type: "item"
+				item: {
+					id: "minecraft:iron_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				only_from_crafting: true
+			}]
+		}
+		{
+			x: -2.0d
+			y: 1.0d
+			id: "5A965DF57ACE1E07"
+			tasks: [{
+				id: "15986B791BD05C4B"
+				type: "item"
+				item: {
+					id: "minecraft:iron_leggings"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				only_from_crafting: true
+			}]
+		}
+		{
+			x: -1.0d
+			y: 2.0d
+			id: "07D530C670AA9966"
+			tasks: [{
+				id: "433DE8C1D5AA44BA"
+				type: "item"
+				item: {
+					id: "minecraft:iron_boots"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				only_from_crafting: true
+			}]
+		}
+		{
+			x: 1.0d
+			y: -2.0d
+			id: "35B6A8310A330BF6"
+			tasks: [{
+				id: "470B043DFD02B64B"
+				type: "item"
+				item: {
+					id: "minecraft:iron_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				only_from_crafting: true
+			}]
+		}
+		{
+			x: 2.0d
+			y: -1.0d
+			id: "2E5C29FB9FBDF45D"
+			tasks: [{
+				id: "2F0C65D0C6F8241B"
+				type: "item"
+				item: {
+					id: "minecraft:iron_pickaxe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				only_from_crafting: true
+			}]
+		}
+		{
+			x: 2.0d
+			y: 1.0d
+			id: "05BDDBD1D134526E"
+			tasks: [{
+				id: "28CB116E8B729FC6"
+				type: "item"
+				item: {
+					id: "minecraft:iron_axe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				only_from_crafting: true
+			}]
+		}
+		{
+			x: 1.0d
+			y: 2.0d
+			id: "5B37CE81A59B7699"
+			tasks: [{
+				id: "602D467DA2D8955F"
+				type: "item"
+				item: {
+					id: "minecraft:iron_shovel"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				only_from_crafting: true
+			}]
+		}
+		{
+			x: 0.0d
+			y: 0.0d
+			dependencies: [
+				"05BDDBD1D134526E"
+				"07D530C670AA9966"
+				"06F8AF74CCE60E0A"
+				"7382C6B0364EB563"
+				"5A965DF57ACE1E07"
+				"2E5C29FB9FBDF45D"
+				"5B37CE81A59B7699"
+				"35B6A8310A330BF6"
+			]
+			id: "3817B4B9011C5EF0"
+			tasks: [{
+				id: "3B36CC2DD2B0FE62"
+				type: "item"
+				item: {
+					id: "minecraft:iron_hoe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "62563742C80F22D7"
+				type: "item"
+				item: {
+					id: "tilingodxmc_mod:llamita"
+					Count: 1b
+					tag: {
+						display: {
+							Lore: ["{\"extra\":[{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"blue\",\"text\":\" Entrega esta llamita en el centro para recibir la recompensa\"}],\"text\":\"\"}"]
+							Name: "{\"extra\":[{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"dark_aqua\",\"text\":\" LLAMITA \"},{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"aqua\",\"text\":\"DÍA 1\"}],\"text\":\"\"}"
+						}
+					}
+				}
+			}]
+		}
+	]
+	quest_links: [ ]
+}

@@ -1,0 +1,81 @@
+Events:
+  Gacha:
+    enabled: true
+    type: block_interact
+    cooldown: 6
+    conditions:
+    - '%block% == TILINGODXMC_MOD_CAJA'
+    - '%action_type% == RIGHT_CLICK'
+    - '%item% == TILINGODXMC_MOD_LLAMITA'
+    - '%item_lore% == Ficha de casino'
+    actions:
+      default:
+      - 'execute_action_group: recompensa1:90;recompensa2:10'
+      - 'remove_item: TILINGODXMC_MOD_LLAMITA;1'
+      recompensa2:
+      - message:%player%! Youve just received $2000
+      recompensa1:
+      - 'wait: 6'
+      - message:%player%! Youve just received $5000
+      - 'drop_item: location:%block_x%,%block_y%,%block_z%,%block_world%;id:DIAMOND'
+      cooldown:
+      - 'message: &cEspera &e%time% &c, ludopata'
+      - 'cancel_event: true'
+  
+  AldeanosExplosivos:
+    enabled: false
+    type: entity_interact
+    conditions:
+    - '%entity% == VILLAGER'
+    - '%random_1_5% == 5'
+    actions:
+      default:
+      - 'console_command: summon tnt %entity_x% %entity_y% %entity_z%'
+  
+  PiglinsBrutos:
+    enabled: false
+    type: entity_spawn
+    conditions:
+    - '%entity% == PIGLIN'
+    actions:
+      default:
+      - 'cancel_event: true'
+      - 'console_command: summon minecraft:piglin_brute %entity_x% %entity_y% %entity_z%'
+  
+  EnderPearl:
+    enabled: false
+    type: item_interact
+    conditions:
+    - '%item% == ENDER_PEARL'
+    - '%checkitem_mat:TILINGODXMC_MOD_ANTISEPARADOR_DE_PARTICULAS% == no'
+    actions:
+      default:
+      - 'damage: 100'
+      - 'give_potion_effect: POISON;120;2;false'
+  
+  AntiPearl:
+    enabled: true
+    type: item_interact
+    conditions:
+    - '%item% == ENDER_PEARL'
+    - '%checkitem_mat:TILINGODXMC_MOD_ANTISEPARADOR_DE_PARTICULAS% == yes'
+    actions:
+      default:
+      - 'give_potion_effect: POISON;120;2;false'
+  
+  Keep:
+    type: player_death
+    conditions:
+    - '%checkitem_mat:TILINGODXMC_MOD_PIEDRA_DE_KEEP_INVENTORY% == yes'
+    actions:
+      default:
+      - 'keep_items: items'
+      - 'wait: 5'
+      - 'remove_item: TILINGODXMC_MOD_PIEDRA_DE_KEEP_INVENTORY;1'
+  
+  Mini:
+    type: player_death
+    enabled: true
+    actions:
+      default:
+      - 'console_command: ll add %player% -1'

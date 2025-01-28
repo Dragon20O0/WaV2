@@ -1,0 +1,5 @@
+name: Dragon20O0
+events:
+  Gacha:
+    one_time: false
+    cooldown: 1735688485397
