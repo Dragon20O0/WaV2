@@ -7313,3 +7313,67 @@ Direct Download: https://get.discordsrv.com
 [23Feb2025 21:18:57.917] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /ftbquests editing_mode true
 [23Feb2025 21:18:57.917] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dragon20O0: Editing Mode for Dragon20O0 Enabled]
 [23Feb2025 21:19:02.416] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:zombie but it was marked as removed already
+[23Feb2025 21:19:56.965] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[23Feb2025 21:20:21.716] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[23Feb2025 21:20:28.284] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 21:20:28.289] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 21:20:36.149] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /gamemode spectator
+[23Feb2025 21:20:36.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dragon20O0: Set own game mode to Spectator Mode]
+[23Feb2025 21:20:41.045] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /gamemode creative
+[23Feb2025 21:20:41.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dragon20O0: Set own game mode to Creative Mode]
+[23Feb2025 21:21:05.556] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /ce disable dimension_nether
+[23Feb2025 21:21:07.980] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /ce disable dimension_nether
+[23Feb2025 21:21:17.506] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /ce enable dimension_nether
+[23Feb2025 21:21:46.118] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /ce enable dimension_end
+[23Feb2025 21:21:57.466] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:zombie but it was marked as removed already
+[23Feb2025 21:22:01.954] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /setblock ~ ~ ~ minecraft:nether_portal
+[23Feb2025 21:22:01.957] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.PortalShapeMixin from mixins.arclight.core.json into net.minecraft.world.level.portal.PortalShape
+[23Feb2025 21:22:01.957] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$arclight$buildPortal$0(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/BlockPos;)V to mdd818f3$lambda$arclight$buildPortal$0$0 in mixins.arclight.core.json:world.level.block.PortalShapeMixin
+[23Feb2025 21:22:01.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dragon20O0: Changed the block at 66, 165, -22]
+[23Feb2025 21:22:02.762] [Server thread/DEBUG] [mixin/]: Mixing world.level.saveddata.maps.MapItemSavedData_HoldingPlayerMixin from mixins.arclight.core.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[23Feb2025 21:22:03.007] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed CerdoMutantePequeNetheriteEntity['Armored Little Mutant Pig'/741225, l='ServerLevel[world/DIM-1]', x=70.50, y=102.00, z=-19.50, removed=DISCARDED].
+[23Feb2025 21:22:03.007] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed CerdoMutantePequeNetheriteEntity['Armored Little Mutant Pig'/741226, l='ServerLevel[world/DIM-1]', x=71.50, y=102.00, z=-20.50, removed=DISCARDED].
+[23Feb2025 21:22:03.185] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed CerdoMutantePequeNetheriteEntity['Armored Little Mutant Pig'/741235, l='ServerLevel[world/DIM-1]', x=38.50, y=55.00, z=-46.50, removed=DISCARDED].
+[23Feb2025 21:22:03.187] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed CerdoMutantePequeNetheriteEntity['Armored Little Mutant Pig'/741239, l='ServerLevel[world/DIM-1]', x=62.95, y=40.00, z=-33.06, removed=DISCARDED].
+[23Feb2025 21:22:04.115] [Server thread/DEBUG] [mixin/]: Mixing world.entity.ai.behavior.StartAttackingMixin from mixins.arclight.core.json into net.minecraft.world.entity.ai.behavior.StartAttacking
+[23Feb2025 21:22:04.127] [Server thread/DEBUG] [mixin/]: Mixing world.entity.ai.behavior.StopAttackingIfTargetInvalidMixin from mixins.arclight.core.json into net.minecraft.world.entity.ai.behavior.StopAttackingIfTargetInvalid
+[23Feb2025 21:22:04.199] [Server thread/DEBUG] [mixin/]: Mixing world.entity.ai.behavior.InteractWithDoorMixin from mixins.arclight.core.json into net.minecraft.world.entity.ai.behavior.InteractWithDoor
+[23Feb2025 21:22:04.237] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed ShadowEntity['Shadow'/741274, l='ServerLevel[world/DIM-1]', x=-46.50, y=82.00, z=-19.50, removed=DISCARDED].
+[23Feb2025 21:22:04.304] [Server thread/DEBUG] [Bad Mobs/]: Forcefully removed ShadowEntity['Shadow'/741282, l='ServerLevel[world/DIM-1]', x=-53.50, y=52.00, z=27.50, removed=DISCARDED].
+[23Feb2025 21:22:27.496] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /ce debug dimension_nether
+[23Feb2025 21:22:32.170] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /ce debug acionesDeBloqueoDimension
+[23Feb2025 21:23:05.114] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[23Feb2025 21:23:09.443] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /tp 54.65 165.00 -18.32
+[23Feb2025 21:23:09.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dragon20O0: Teleported Dragon20O0 to 54.650000, 165.000000, -18.320000]
+[23Feb2025 21:24:17.244] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /ce reload
+[23Feb2025 21:24:46.714] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[23Feb2025 21:24:47.465] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:zombie but it was marked as removed already
+[23Feb2025 21:25:14.249] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /ce debug dimension_nether
+[23Feb2025 21:25:23.169] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /tp 54.65 165.00 -18.32
+[23Feb2025 21:25:23.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dragon20O0: Teleported Dragon20O0 to 54.650000, 165.000000, -18.320000]
+[23Feb2025 21:25:28.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 21:25:28.284] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 21:25:41.472] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /ce debug dimension_nether
+[23Feb2025 21:25:43.536] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /ce debug dimension_nether
+[23Feb2025 21:26:11.817] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /ce reload
+[23Feb2025 21:26:23.556] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /ce reload
+[23Feb2025 21:26:26.133] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /ce debug dimension_nether
+[23Feb2025 21:26:27.647] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /ce debug dimension_nether
+[23Feb2025 21:26:30.199] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /tp 54.65 165.00 -18.32
+[23Feb2025 21:26:30.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dragon20O0: Teleported Dragon20O0 to 54.650000, 165.000000, -18.320000]
+[23Feb2025 21:26:31.065] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:zombie but it was marked as removed already
+[23Feb2025 21:26:46.416] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:zombie but it was marked as removed already
+[23Feb2025 21:27:43.535] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /ce reload
+[23Feb2025 21:27:47.230] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /ce debug dimension_nether
+[23Feb2025 21:27:48.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /ce debug dimension_nether
+[23Feb2025 21:27:50.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 moved too quickly! -55.85579411345749,-100.0,29.47953868504474
+[23Feb2025 21:27:55.385] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /gamemode spectator
+[23Feb2025 21:27:55.386] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dragon20O0: Set own game mode to Spectator Mode]
+[23Feb2025 21:28:07.032] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /gamemode creative
+[23Feb2025 21:28:07.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dragon20O0: Set own game mode to Creative Mode]
+[23Feb2025 21:29:10.643] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /time set 0
+[23Feb2025 21:29:10.645] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dragon20O0: Set the time to 0]
+[23Feb2025 21:29:15.431] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /time set night
+[23Feb2025 21:29:15.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dragon20O0: Set the time to 13000]
+[23Feb2025 21:29:25.300] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /time set 0
+[23Feb2025 21:29:25.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dragon20O0: Set the time to 0]

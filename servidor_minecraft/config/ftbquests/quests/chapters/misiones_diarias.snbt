@@ -11,6 +11,7 @@
 		{
 			x: -1.0d
 			y: -2.0d
+			invisible: true
 			id: "7382C6B0364EB563"
 			tasks: [{
 				id: "07C4B77E74668E7A"
@@ -28,6 +29,7 @@
 		{
 			x: -2.0d
 			y: -1.0d
+			invisible: true
 			id: "06F8AF74CCE60E0A"
 			tasks: [{
 				id: "2C338CB667F2BB91"
@@ -45,6 +47,7 @@
 		{
 			x: -2.0d
 			y: 1.0d
+			invisible: true
 			id: "5A965DF57ACE1E07"
 			tasks: [{
 				id: "15986B791BD05C4B"
@@ -62,6 +65,7 @@
 		{
 			x: -1.0d
 			y: 2.0d
+			invisible: true
 			id: "07D530C670AA9966"
 			tasks: [{
 				id: "433DE8C1D5AA44BA"
@@ -79,6 +83,7 @@
 		{
 			x: 1.0d
 			y: -2.0d
+			invisible: true
 			id: "35B6A8310A330BF6"
 			tasks: [{
 				id: "470B043DFD02B64B"
@@ -96,6 +101,7 @@
 		{
 			x: 2.0d
 			y: -1.0d
+			invisible: true
 			id: "2E5C29FB9FBDF45D"
 			tasks: [{
 				id: "2F0C65D0C6F8241B"
@@ -113,6 +119,7 @@
 		{
 			x: 2.0d
 			y: 1.0d
+			invisible: true
 			id: "05BDDBD1D134526E"
 			tasks: [{
 				id: "28CB116E8B729FC6"
@@ -130,6 +137,7 @@
 		{
 			x: 1.0d
 			y: 2.0d
+			invisible: true
 			id: "5B37CE81A59B7699"
 			tasks: [{
 				id: "602D467DA2D8955F"
@@ -147,6 +155,16 @@
 		{
 			x: 0.0d
 			y: 0.0d
+			dependencies: [
+				"07D530C670AA9966"
+				"06F8AF74CCE60E0A"
+				"7382C6B0364EB563"
+				"05BDDBD1D134526E"
+				"5A965DF57ACE1E07"
+				"5B37CE81A59B7699"
+				"2E5C29FB9FBDF45D"
+				"35B6A8310A330BF6"
+			]
 			id: "1454F49BECC6B439"
 			tasks: [
 				{
@@ -181,6 +199,18 @@
 						}
 					}
 				}
+			}]
+		}
+		{
+			x: -6.5d
+			y: 0.0d
+			invisible: true
+			id: "260E35A2FBE255C8"
+			tasks: [{
+				id: "5937E7A250EF7761"
+				type: "item"
+				secret: true
+				item: "minecraft:bedrock"
 			}]
 		}
 	]
