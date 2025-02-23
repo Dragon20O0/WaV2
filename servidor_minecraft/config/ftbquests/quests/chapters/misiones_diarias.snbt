@@ -147,30 +147,29 @@
 		{
 			x: 0.0d
 			y: 0.0d
-			dependencies: [
-				"05BDDBD1D134526E"
-				"07D530C670AA9966"
-				"06F8AF74CCE60E0A"
-				"7382C6B0364EB563"
-				"5A965DF57ACE1E07"
-				"2E5C29FB9FBDF45D"
-				"5B37CE81A59B7699"
-				"35B6A8310A330BF6"
-			]
-			id: "3817B4B9011C5EF0"
-			tasks: [{
-				id: "3B36CC2DD2B0FE62"
-				type: "item"
-				item: {
-					id: "minecraft:iron_hoe"
-					Count: 1b
-					tag: {
-						Damage: 0
+			id: "1454F49BECC6B439"
+			tasks: [
+				{
+					id: "5CE6331D9FF053F9"
+					type: "item"
+					item: {
+						id: "minecraft:iron_hoe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
+				{
+					id: "371D9EDEAFDBF630"
+					type: "item"
+					item: "minecraft:diamond_block"
+					count: 8L
+					consume_items: true
+				}
+			]
 			rewards: [{
-				id: "62563742C80F22D7"
+				id: "7E3E307DD2C0022B"
 				type: "item"
 				item: {
 					id: "tilingodxmc_mod:llamita"

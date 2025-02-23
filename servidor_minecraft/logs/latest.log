@@ -2452,3 +2452,41 @@ Direct Download: https://get.discordsrv.com
 [23Feb2025 21:08:33.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Displaying particle minecraft:glow_squid_ink
 [23Feb2025 21:08:33.870] [Server thread/ERROR] [STDERR/]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
 [23Feb2025 21:08:36.158] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2245ms or 44 ticks behind
+[23Feb2025 21:08:38.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Successfully filled 9 blocks
+[23Feb2025 21:08:38.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Successfully filled 1 blocks
+[23Feb2025 21:08:44.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /gamemode creative
+[23Feb2025 21:08:44.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dragon20O0: Set own game mode to Creative Mode]
+[23Feb2025 21:09:57.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 moved too quickly! 13.540535423230935,4.506778570833205,1.8791057056936218
+[23Feb2025 21:10:02.465] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[23Feb2025 21:10:37.866] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /worldguard
+[23Feb2025 21:10:42.524] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /worldguard region
+[23Feb2025 21:11:04.664] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[23Feb2025 21:11:17.064] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[23Feb2025 21:11:40.714] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:zombie but it was marked as removed already
+[23Feb2025 21:12:05.678] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /ie list
+[23Feb2025 21:12:32.415] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:zombie but it was marked as removed already
+[23Feb2025 21:12:58.779] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /ruleta
+[23Feb2025 21:13:00.067] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:zombie but it was marked as removed already
+[23Feb2025 21:13:10.553] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /ruleta roja @a title Waza
+[23Feb2025 21:13:10.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Added tag 'anim.ruleta.roja' to Dragon20O0
+[23Feb2025 21:13:48.412] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /ruleta azul @a title Waza
+[23Feb2025 21:13:48.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Added tag 'anim.ruleta.azul' to Dragon20O0
+[23Feb2025 21:14:09.365] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[23Feb2025 21:14:14.252] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /ruleta cyan @a title Waza
+[23Feb2025 21:14:19.917] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /ruleta celeste @a title Waza
+[23Feb2025 21:14:27.341] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /ruleta turqueza @a title Waza
+[23Feb2025 21:14:27.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Added tag 'anim.ruleta.turqueza' to Dragon20O0
+[23Feb2025 21:14:31.166] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[23Feb2025 21:14:46.366] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[23Feb2025 21:14:51.465] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[23Feb2025 21:14:52.527] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /cc
+[23Feb2025 21:15:53.415] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[23Feb2025 21:16:46.665] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[23Feb2025 21:16:55.814] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[23Feb2025 21:17:39.466] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:zombie but it was marked as removed already
+[23Feb2025 21:17:44.215] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:zombie but it was marked as removed already
+[23Feb2025 21:18:45.603] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /ftbquests editing_mode false
+[23Feb2025 21:18:45.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dragon20O0: Editing Mode for Dragon20O0 Disabled]
+[23Feb2025 21:18:57.917] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /ftbquests editing_mode true
+[23Feb2025 21:18:57.917] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dragon20O0: Editing Mode for Dragon20O0 Enabled]
+[23Feb2025 21:19:02.416] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:zombie but it was marked as removed already
