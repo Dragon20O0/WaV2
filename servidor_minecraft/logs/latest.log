@@ -2734,3 +2734,25 @@ Caused by: java.util.NoSuchElementException: No value present
 [23Feb2025 21:48:56.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dragon20O0: Set own game mode to Survival Mode]
 [23Feb2025 21:49:17.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /gamemode creative
 [23Feb2025 21:49:17.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dragon20O0: Set own game mode to Creative Mode]
+[23Feb2025 21:51:37.065] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[23Feb2025 21:55:12.661] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /gamemode spectator
+[23Feb2025 21:55:12.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dragon20O0: Set own game mode to Spectator Mode]
+[23Feb2025 21:55:18.238] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /tp 0 0 0
+[23Feb2025 21:55:18.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dragon20O0: Teleported Dragon20O0 to 0.500000, 0.000000, 0.500000]
+[23Feb2025 21:55:27.505] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /gamemode creative
+[23Feb2025 21:55:27.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dragon20O0: Set own game mode to Creative Mode]
+[23Feb2025 21:56:44.814] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:zombie but it was marked as removed already
+[23Feb2025 21:58:11.214] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[23Feb2025 21:58:53.851] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /gamemode spectator
+[23Feb2025 21:58:53.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dragon20O0: Set own game mode to Spectator Mode]
+[23Feb2025 21:59:06.650] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /gamemode creative
+[23Feb2025 21:59:06.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dragon20O0: Set own game mode to Creative Mode]
+[23Feb2025 21:59:39.167] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[23Feb2025 21:59:42.240] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /gamemode spectator
+[23Feb2025 21:59:42.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dragon20O0: Set own game mode to Spectator Mode]
+[23Feb2025 21:59:53.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /gamemode creative
+[23Feb2025 21:59:53.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dragon20O0: Set own game mode to Creative Mode]
+[23Feb2025 22:00:10.671] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /gamemode spectator
+[23Feb2025 22:00:10.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dragon20O0: Set own game mode to Spectator Mode]
+[23Feb2025 22:00:13.646] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dragon20O0 issued server command: /gamemode creative
+[23Feb2025 22:00:13.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Dragon20O0: Set own game mode to Creative Mode]
