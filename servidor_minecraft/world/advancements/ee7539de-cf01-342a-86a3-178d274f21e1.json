@@ -876,6 +876,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-02-23 21:35:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-15 03:18:46 +0000"
@@ -891,6 +897,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-12-15 03:20:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-02-23 21:35:42 +0000"
     },
     "done": true
   },
@@ -1149,6 +1161,12 @@
   "roaming_alphas:roaming_alphas_a": {
     "criteria": {
       "roaming_alphas_a": "2024-12-14 23:18:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-02-23 21:35:42 +0000"
     },
     "done": true
   },
