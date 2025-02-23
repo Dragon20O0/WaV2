@@ -47,7 +47,7 @@ Events:
       - 'cancel_event: true'
   
   xfantasmas:
-    enabled: false
+    enabled: true
     type: entity_spawn
     conditions:
     - '%entity% == NESQUIKSMOD_GHOST or %entity% == NESQUIKSMOD_GHOST_HAPPY or %entity%

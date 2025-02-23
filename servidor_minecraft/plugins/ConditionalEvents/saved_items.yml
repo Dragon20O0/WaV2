@@ -1,17 +1,4 @@
 items:
-  dia1:
-    ==: org.bukkit.inventory.ItemStack
-    v: 2975
-    type: TILINGODXMC_MOD_LLAMITA
-    meta:
-      ==: ItemMeta
-      meta-type: UNSPECIFIC
-      display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_aqua","text":"
-        LLAMITA "},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"aqua","text":"DÍA
-        1"}],"text":""}'
-      lore:
-      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"blue","text":"
-        Entrega esta llamita en el centro para recibir la recompensa"}],"text":""}'
   d1:
     ==: org.bukkit.inventory.ItemStack
     v: 2975
@@ -21,5 +8,5 @@ items:
       meta-type: TILE_ENTITY
       lore:
       - '"(+NBT)"'
-      internal: H4sIAAAAAAAA/53Luw6CMAAF0AuCAr7w/Vr8DiejcXDWnVSoSCwtwTr49w6aOHvPfiIgQm+nTHo/aFvY11nkIfyjleUjArBy4J2UsQjgFhnWZaFlWour3Uid3oS2MktyozKpE1FVSjrw9+ap7Rbf6LDRZWODjR4bfTY22dhiY8DGkI0RG9ts7LCxy8YeG/tsjNk4YOOQjSM2jtk4YeOUjTM2ztm4YOPy7/gJ8S9cRF1LBbwBf/iJdT0GAAA=
+      internal: H4sIAAAAAAAA/53Sy27CMBCF4QklBQLljriIJ8myVRddl31kHDdYsT1RMkjw9q2USpWaTU/3/yfPjJwQJTR9dqzL1yBW7idVjCh+E+ObhIgOEfXfHQsNqWdz2nsbjK7Vh6SauTR5VnFd6gtXEcUvfA0S0beIYNGDxUMrtmKdDQXnN68zz3nqnPJWVKfvg30M9o/wBgNYDGExgkUCizEsJuBtn9p+97sX/vqrmRQdMAUfmMErzGGxgMUSFitYrGGxacXRKVE+M5oD+3uqbdBXE0RVpuGmg7b/QTt4tj0sDn8XbTn/Kc+qro0j+gSTBhJoSQUAAA==
       blockMaterial: BARREL

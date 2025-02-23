@@ -1,7 +1,31 @@
 {
+  "weeping_angels:recipes/angels/kontron_ingot": {
+    "criteria": {
+      "has_any_kontron": "2025-01-28 22:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-01-28 22:43:54 +0000"
+    },
+    "done": false
+  },
   "roaming_alphas:roaming_alphas_a": {
     "criteria": {
       "roaming_alphas_a": "2025-01-28 02:24:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-28 22:43:54 +0000"
+    },
+    "done": true
+  },
+  "whisperwoods:recipes/whisperwoods/hand_of_fate": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-28 22:43:50 +0000"
     },
     "done": true
   },
